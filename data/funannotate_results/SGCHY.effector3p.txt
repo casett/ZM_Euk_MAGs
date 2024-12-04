@@ -1,0 +1,394 @@
+Identifier    	Cytoplasmic effector	Apoplastic effector 	Non-effector        	Prediction          
+SGCHY_000004-T1 	-                   	-                   	Y (0.76)           	Non-effector
+SGCHY_000007-T1 	-                   	-                   	Y (0.643)           	Non-effector
+SGCHY_000043-T1 	-                   	-                   	Y (0.889)           	Non-effector
+SGCHY_000063-T1 	-                   	-                   	Y (0.607)           	Non-effector
+SGCHY_000064-T1 	Y (0.898)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000077-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCHY_000106-T1 	-                   	-                   	Y (0.726)           	Non-effector
+SGCHY_000120-T1 	-                   	-                   	Y (0.895)           	Non-effector
+SGCHY_000122-T1 	-                   	-                   	Y (0.698)           	Non-effector
+SGCHY_000168-T1 	Y (0.785)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000190-T1 	-                   	-                   	Y (0.524)           	Non-effector
+SGCHY_000198-T1 	-                   	-                   	Y (0.76)           	Non-effector
+SGCHY_000199-T1 	Y (0.631)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000205-T1 	Y (0.906)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000220-T1 	-                   	-                   	Y (0.626)           	Non-effector
+SGCHY_000318-T1 	-                   	-                   	Y (0.775)           	Non-effector
+SGCHY_000324-T1 	Y (0.705)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000327-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCHY_000336-T1 	-                   	Y (0.934)           	-                   	Apoplastic effector
+SGCHY_000345-T1 	-                   	-                   	Y (0.596)           	Non-effector
+SGCHY_000359-T1 	-                   	-                   	Y (0.87)           	Non-effector
+SGCHY_000364-T1 	-                   	-                   	Y (0.915)           	Non-effector
+SGCHY_000365-T1 	-                   	-                   	Y (0.907)           	Non-effector
+SGCHY_000366-T1 	-                   	Y (0.76)           	-                   	Apoplastic effector
+SGCHY_000407-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCHY_000408-T1 	-                   	-                   	Y (0.874)           	Non-effector
+SGCHY_000421-T1 	Y (0.888)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000425-T1 	-                   	Y (0.528)           	-                   	Apoplastic effector
+SGCHY_000443-T1 	-                   	-                   	Y (0.677)           	Non-effector
+SGCHY_000496-T1 	-                   	-                   	Y (0.899)           	Non-effector
+SGCHY_000499-T1 	Y (0.749)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000506-T1 	Y (0.704)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000508-T1 	-                   	-                   	Y (0.926)           	Non-effector
+SGCHY_000529-T1 	Y (0.933)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000541-T1 	-                   	-                   	Y (0.927)           	Non-effector
+SGCHY_000551-T1 	-                   	-                   	Y (0.554)           	Non-effector
+SGCHY_000553-T1 	-                   	-                   	Y (0.585)           	Non-effector
+SGCHY_000565-T1 	Y (0.512)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000573-T1 	Y (0.701)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000581-T1 	Y (0.808)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000611-T1 	-                   	-                   	Y (0.945)           	Non-effector
+SGCHY_000657-T1 	Y (0.697)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000669-T1 	-                   	-                   	Y (0.884)           	Non-effector
+SGCHY_000682-T1 	Y (0.723)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000710-T1 	-                   	-                   	Y (0.948)           	Non-effector
+SGCHY_000722-T1 	Y (0.785)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000723-T1 	-                   	-                   	Y (0.852)           	Non-effector
+SGCHY_000727-T1 	Y (0.58)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000728-T1 	-                   	-                   	Y (0.823)           	Non-effector
+SGCHY_000729-T1 	-                   	-                   	Y (0.572)           	Non-effector
+SGCHY_000730-T1 	Y (0.588)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000731-T1 	-                   	-                   	Y (0.67)           	Non-effector
+SGCHY_000737-T1 	-                   	-                   	Y (0.538)           	Non-effector
+SGCHY_000746-T1 	-                   	-                   	Y (0.904)           	Non-effector
+SGCHY_000752-T1 	-                   	-                   	Y (0.574)           	Non-effector
+SGCHY_000775-T1 	-                   	-                   	Y (0.546)           	Non-effector
+SGCHY_000815-T1 	-                   	-                   	Y (0.744)           	Non-effector
+SGCHY_000837-T1 	Y (0.971)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000857-T1 	Y (0.546)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000899-T1 	-                   	-                   	Y (0.939)           	Non-effector
+SGCHY_000929-T1 	Y (0.541)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000943-T1 	Y (0.828)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000944-T1 	-                   	-                   	Y (0.901)           	Non-effector
+SGCHY_000954-T1 	-                   	-                   	Y (0.616)           	Non-effector
+SGCHY_000955-T1 	Y (0.517)           	-                   	-                   	Cytoplasmic effector
+SGCHY_000972-T1 	-                   	-                   	Y (0.959)           	Non-effector
+SGCHY_000975-T1 	-                   	-                   	Y (0.565)           	Non-effector
+SGCHY_000981-T1 	Y (0.54)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001003-T1 	-                   	-                   	Y (0.716)           	Non-effector
+SGCHY_001060-T1 	-                   	-                   	Y (0.649)           	Non-effector
+SGCHY_001091-T1 	-                   	Y (0.509)           	-                   	Apoplastic effector
+SGCHY_001092-T1 	Y (0.821)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001094-T1 	-                   	-                   	Y (0.705)           	Non-effector
+SGCHY_001107-T1 	-                   	-                   	Y (0.79)           	Non-effector
+SGCHY_001108-T1 	Y (0.633)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001150-T1 	-                   	-                   	Y (0.818)           	Non-effector
+SGCHY_001151-T1 	-                   	-                   	Y (0.812)           	Non-effector
+SGCHY_001152-T1 	-                   	-                   	Y (0.748)           	Non-effector
+SGCHY_001190-T1 	Y (0.554)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001213-T1 	-                   	-                   	Y (0.521)           	Non-effector
+SGCHY_001223-T1 	-                   	-                   	Y (0.984)           	Non-effector
+SGCHY_001267-T1 	-                   	-                   	Y (0.552)           	Non-effector
+SGCHY_001268-T1 	-                   	-                   	Y (0.536)           	Non-effector
+SGCHY_001292-T1 	-                   	-                   	Y (0.975)           	Non-effector
+SGCHY_001343-T1 	-                   	-                   	Y (0.962)           	Non-effector
+SGCHY_001376-T1 	-                   	-                   	Y (0.642)           	Non-effector
+SGCHY_001377-T1 	Y (0.54)           	Y (0.56)           	-                   	Apoplastic/cytoplasmic effector
+SGCHY_001382-T1 	-                   	-                   	Y (0.929)           	Non-effector
+SGCHY_001424-T1 	Y (0.667)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001491-T1 	-                   	-                   	Y (0.635)           	Non-effector
+SGCHY_001508-T1 	Y (0.833)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001554-T1 	-                   	-                   	Y (0.861)           	Non-effector
+SGCHY_001578-T1 	Y (0.815)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001579-T1 	-                   	-                   	Y (0.879)           	Non-effector
+SGCHY_001598-T1 	-                   	-                   	Y (0.759)           	Non-effector
+SGCHY_001608-T1 	Y (0.821)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001621-T1 	-                   	-                   	Y (0.985)           	Non-effector
+SGCHY_001633-T1 	Y (0.522)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001636-T1 	Y (0.869)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001658-T1 	-                   	-                   	Y (0.948)           	Non-effector
+SGCHY_001697-T1 	-                   	-                   	Y (0.882)           	Non-effector
+SGCHY_001719-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCHY_001736-T1 	-                   	-                   	Y (0.952)           	Non-effector
+SGCHY_001752-T1 	-                   	-                   	Y (0.916)           	Non-effector
+SGCHY_001780-T1 	-                   	-                   	Y (0.979)           	Non-effector
+SGCHY_001783-T1 	-                   	-                   	Y (0.882)           	Non-effector
+SGCHY_001790-T1 	Y (0.715)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001809-T1 	Y (0.636)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001839-T1 	-                   	-                   	Y (0.788)           	Non-effector
+SGCHY_001841-T1 	-                   	-                   	Y (0.562)           	Non-effector
+SGCHY_001842-T1 	-                   	-                   	Y (0.861)           	Non-effector
+SGCHY_001845-T1 	-                   	-                   	Y (0.864)           	Non-effector
+SGCHY_001876-T1 	-                   	-                   	Y (0.901)           	Non-effector
+SGCHY_001901-T1 	-                   	-                   	Y (0.962)           	Non-effector
+SGCHY_001907-T1 	Y (0.523)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001910-T1 	-                   	-                   	Y (0.889)           	Non-effector
+SGCHY_001911-T1 	Y (0.859)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001922-T1 	-                   	-                   	Y (0.757)           	Non-effector
+SGCHY_001946-T1 	Y (0.79)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001953-T1 	-                   	-                   	Y (0.956)           	Non-effector
+SGCHY_001955-T1 	-                   	-                   	Y (0.847)           	Non-effector
+SGCHY_001977-T1 	Y (0.504)           	-                   	-                   	Cytoplasmic effector
+SGCHY_001993-T1 	-                   	-                   	Y (0.565)           	Non-effector
+SGCHY_002020-T1 	-                   	-                   	Y (0.803)           	Non-effector
+SGCHY_002030-T1 	Y (0.64)           	-                   	-                   	Cytoplasmic effector
+SGCHY_002046-T1 	-                   	-                   	Y (0.535)           	Non-effector
+SGCHY_002047-T1 	-                   	-                   	Y (0.648)           	Non-effector
+SGCHY_002060-T1 	-                   	-                   	Y (0.934)           	Non-effector
+SGCHY_002073-T1 	-                   	-                   	Y (0.729)           	Non-effector
+SGCHY_002076-T1 	-                   	-                   	Y (0.584)           	Non-effector
+SGCHY_002083-T1 	-                   	-                   	Y (0.503)           	Non-effector
+SGCHY_002097-T1 	-                   	Y (0.868)           	-                   	Apoplastic effector
+SGCHY_002108-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCHY_002133-T1 	-                   	-                   	Y (0.952)           	Non-effector
+SGCHY_002145-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCHY_002146-T1 	-                   	-                   	Y (0.849)           	Non-effector
+SGCHY_002153-T1 	Y (0.532)           	-                   	-                   	Cytoplasmic effector
+SGCHY_002154-T1 	-                   	-                   	Y (0.51)           	Non-effector
+SGCHY_002190-T1 	Y (0.667)           	Y (0.527)           	-                   	Cytoplasmic/apoplastic effector
+SGCHY_002191-T1 	Y (0.705)           	-                   	-                   	Cytoplasmic effector
+SGCHY_002192-T1 	Y (0.807)           	Y (0.5)           	-                   	Cytoplasmic/apoplastic effector
+SGCHY_002202-T1 	Y (0.717)           	-                   	-                   	Cytoplasmic effector
+SGCHY_002227-T1 	-                   	-                   	Y (0.79)           	Non-effector
+SGCHY_002299-T1 	-                   	-                   	Y (0.777)           	Non-effector
+SGCHY_002319-T1 	-                   	-                   	Y (0.806)           	Non-effector
+SGCHY_002364-T1 	-                   	Y (0.628)           	-                   	Apoplastic effector
+SGCHY_002424-T1 	-                   	-                   	Y (0.79)           	Non-effector
+SGCHY_002432-T1 	-                   	-                   	Y (0.9)           	Non-effector
+SGCHY_002463-T1 	-                   	-                   	Y (0.679)           	Non-effector
+SGCHY_002464-T1 	-                   	-                   	Y (0.669)           	Non-effector
+SGCHY_002465-T1 	-                   	-                   	Y (0.555)           	Non-effector
+SGCHY_002466-T1 	-                   	-                   	Y (0.671)           	Non-effector
+SGCHY_002477-T1 	-                   	-                   	Y (0.901)           	Non-effector
+SGCHY_002479-T1 	-                   	-                   	Y (0.91)           	Non-effector
+SGCHY_002496-T1 	-                   	-                   	Y (0.818)           	Non-effector
+SGCHY_002506-T1 	-                   	-                   	Y (0.8)           	Non-effector
+SGCHY_002513-T1 	-                   	-                   	Y (0.594)           	Non-effector
+SGCHY_002571-T1 	-                   	-                   	Y (0.615)           	Non-effector
+SGCHY_002572-T1 	-                   	Y (0.692)           	-                   	Apoplastic effector
+SGCHY_002580-T1 	Y (0.597)           	-                   	-                   	Cytoplasmic effector
+SGCHY_002582-T1 	-                   	-                   	Y (0.802)           	Non-effector
+SGCHY_002585-T1 	-                   	-                   	Y (0.541)           	Non-effector
+SGCHY_002602-T1 	-                   	-                   	Y (0.987)           	Non-effector
+SGCHY_002608-T1 	-                   	-                   	Y (0.65)           	Non-effector
+SGCHY_002609-T1 	-                   	-                   	Y (0.725)           	Non-effector
+SGCHY_002613-T1 	-                   	-                   	Y (0.984)           	Non-effector
+SGCHY_002617-T1 	-                   	-                   	Y (0.933)           	Non-effector
+SGCHY_002619-T1 	Y (0.55)           	Y (0.633)           	-                   	Apoplastic/cytoplasmic effector
+SGCHY_002620-T1 	-                   	-                   	Y (0.963)           	Non-effector
+SGCHY_002624-T1 	-                   	Y (0.586)           	-                   	Apoplastic effector
+SGCHY_002629-T1 	-                   	-                   	Y (0.73)           	Non-effector
+SGCHY_002636-T1 	-                   	-                   	Y (0.767)           	Non-effector
+SGCHY_002665-T1 	Y (0.744)           	-                   	-                   	Cytoplasmic effector
+SGCHY_002685-T1 	-                   	Y (0.545)           	-                   	Apoplastic effector
+SGCHY_002736-T1 	-                   	Y (0.546)           	-                   	Apoplastic effector
+SGCHY_002755-T1 	Y (0.577)           	-                   	-                   	Cytoplasmic effector
+SGCHY_002772-T1 	-                   	-                   	Y (0.722)           	Non-effector
+SGCHY_002792-T1 	-                   	-                   	Y (0.688)           	Non-effector
+SGCHY_002793-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCHY_002796-T1 	-                   	-                   	Y (0.914)           	Non-effector
+SGCHY_002799-T1 	-                   	-                   	Y (0.933)           	Non-effector
+SGCHY_002812-T1 	-                   	-                   	Y (0.867)           	Non-effector
+SGCHY_002859-T1 	-                   	-                   	Y (0.923)           	Non-effector
+SGCHY_002866-T1 	-                   	-                   	Y (0.548)           	Non-effector
+SGCHY_002874-T1 	-                   	-                   	Y (0.554)           	Non-effector
+SGCHY_002875-T1 	-                   	-                   	Y (0.648)           	Non-effector
+SGCHY_002876-T1 	-                   	Y (0.743)           	-                   	Apoplastic effector
+SGCHY_002877-T1 	-                   	Y (0.837)           	-                   	Apoplastic effector
+SGCHY_002878-T1 	-                   	-                   	Y (0.768)           	Non-effector
+SGCHY_002883-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCHY_002906-T1 	-                   	-                   	Y (0.862)           	Non-effector
+SGCHY_002918-T1 	Y (0.672)           	-                   	-                   	Cytoplasmic effector
+SGCHY_002935-T1 	Y (0.774)           	-                   	-                   	Cytoplasmic effector
+SGCHY_002939-T1 	-                   	-                   	Y (0.948)           	Non-effector
+SGCHY_002959-T1 	-                   	-                   	Y (0.838)           	Non-effector
+SGCHY_002968-T1 	-                   	-                   	Y (0.767)           	Non-effector
+SGCHY_002978-T1 	-                   	-                   	Y (0.619)           	Non-effector
+SGCHY_003005-T1 	-                   	-                   	Y (0.654)           	Non-effector
+SGCHY_003006-T1 	-                   	-                   	Y (0.849)           	Non-effector
+SGCHY_003009-T1 	-                   	-                   	Y (0.952)           	Non-effector
+SGCHY_003029-T1 	-                   	-                   	Y (0.714)           	Non-effector
+SGCHY_003044-T1 	-                   	-                   	Y (0.958)           	Non-effector
+SGCHY_003066-T1 	Y (0.697)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003072-T1 	-                   	-                   	Y (0.95)           	Non-effector
+SGCHY_003100-T1 	-                   	-                   	Y (0.714)           	Non-effector
+SGCHY_003115-T1 	-                   	Y (0.756)           	-                   	Apoplastic effector
+SGCHY_003116-T1 	-                   	-                   	Y (0.829)           	Non-effector
+SGCHY_003151-T1 	-                   	-                   	Y (0.987)           	Non-effector
+SGCHY_003166-T1 	-                   	-                   	Y (0.601)           	Non-effector
+SGCHY_003167-T1 	-                   	-                   	Y (0.925)           	Non-effector
+SGCHY_003184-T1 	-                   	-                   	Y (0.982)           	Non-effector
+SGCHY_003191-T1 	-                   	-                   	Y (0.501)           	Non-effector
+SGCHY_003197-T1 	-                   	-                   	Y (0.888)           	Non-effector
+SGCHY_003198-T1 	-                   	-                   	Y (0.818)           	Non-effector
+SGCHY_003203-T1 	-                   	-                   	Y (0.592)           	Non-effector
+SGCHY_003220-T1 	-                   	-                   	Y (0.778)           	Non-effector
+SGCHY_003252-T1 	-                   	-                   	Y (0.965)           	Non-effector
+SGCHY_003265-T1 	-                   	-                   	Y (0.775)           	Non-effector
+SGCHY_003267-T1 	-                   	-                   	Y (0.537)           	Non-effector
+SGCHY_003268-T1 	Y (0.553)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003281-T1 	-                   	-                   	Y (0.809)           	Non-effector
+SGCHY_003298-T1 	-                   	-                   	Y (0.713)           	Non-effector
+SGCHY_003319-T1 	Y (0.55)           	Y (0.752)           	-                   	Apoplastic/cytoplasmic effector
+SGCHY_003348-T1 	-                   	-                   	Y (0.901)           	Non-effector
+SGCHY_003351-T1 	Y (0.569)           	Y (0.588)           	-                   	Apoplastic/cytoplasmic effector
+SGCHY_003355-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCHY_003382-T1 	-                   	-                   	Y (0.704)           	Non-effector
+SGCHY_003383-T1 	-                   	-                   	Y (0.757)           	Non-effector
+SGCHY_003395-T1 	-                   	-                   	Y (0.751)           	Non-effector
+SGCHY_003413-T1 	-                   	-                   	Y (0.816)           	Non-effector
+SGCHY_003424-T1 	-                   	-                   	Y (0.886)           	Non-effector
+SGCHY_003437-T1 	-                   	-                   	Y (0.789)           	Non-effector
+SGCHY_003438-T1 	-                   	-                   	Y (0.628)           	Non-effector
+SGCHY_003504-T1 	-                   	-                   	Y (0.692)           	Non-effector
+SGCHY_003513-T1 	Y (0.557)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003531-T1 	Y (0.669)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003542-T1 	-                   	-                   	Y (0.921)           	Non-effector
+SGCHY_003553-T1 	Y (0.698)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003554-T1 	Y (0.554)           	Y (0.629)           	-                   	Apoplastic/cytoplasmic effector
+SGCHY_003570-T1 	Y (0.55)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003572-T1 	-                   	-                   	Y (0.88)           	Non-effector
+SGCHY_003579-T1 	Y (0.643)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003588-T1 	Y (0.778)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003601-T1 	-                   	-                   	Y (0.892)           	Non-effector
+SGCHY_003614-T1 	Y (0.57)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003638-T1 	-                   	-                   	Y (0.771)           	Non-effector
+SGCHY_003640-T1 	Y (0.75)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003641-T1 	-                   	-                   	Y (0.688)           	Non-effector
+SGCHY_003658-T1 	-                   	-                   	Y (0.84)           	Non-effector
+SGCHY_003674-T1 	Y (0.729)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003690-T1 	-                   	-                   	Y (0.848)           	Non-effector
+SGCHY_003691-T1 	-                   	-                   	Y (0.742)           	Non-effector
+SGCHY_003722-T1 	-                   	-                   	Y (0.608)           	Non-effector
+SGCHY_003723-T1 	-                   	-                   	Y (0.824)           	Non-effector
+SGCHY_003724-T1 	Y (0.801)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003726-T1 	-                   	Y (0.526)           	-                   	Apoplastic effector
+SGCHY_003755-T1 	-                   	Y (0.653)           	-                   	Apoplastic effector
+SGCHY_003764-T1 	-                   	-                   	Y (0.556)           	Non-effector
+SGCHY_003765-T1 	-                   	-                   	Y (0.906)           	Non-effector
+SGCHY_003779-T1 	-                   	-                   	Y (0.959)           	Non-effector
+SGCHY_003781-T1 	-                   	-                   	Y (0.692)           	Non-effector
+SGCHY_003797-T1 	-                   	-                   	Y (0.868)           	Non-effector
+SGCHY_003799-T1 	Y (0.582)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003820-T1 	Y (0.575)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003825-T1 	Y (0.545)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003826-T1 	Y (0.834)           	Y (0.633)           	-                   	Cytoplasmic/apoplastic effector
+SGCHY_003848-T1 	Y (0.695)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003863-T1 	-                   	-                   	Y (0.867)           	Non-effector
+SGCHY_003871-T1 	-                   	-                   	Y (0.923)           	Non-effector
+SGCHY_003873-T1 	Y (0.892)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003883-T1 	-                   	-                   	Y (0.889)           	Non-effector
+SGCHY_003885-T1 	-                   	-                   	Y (0.536)           	Non-effector
+SGCHY_003893-T1 	-                   	-                   	Y (0.905)           	Non-effector
+SGCHY_003900-T1 	Y (0.846)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003901-T1 	Y (0.646)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003902-T1 	Y (0.728)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003921-T1 	-                   	-                   	Y (0.674)           	Non-effector
+SGCHY_003940-T1 	-                   	-                   	Y (0.866)           	Non-effector
+SGCHY_003951-T1 	Y (0.787)           	-                   	-                   	Cytoplasmic effector
+SGCHY_003973-T1 	-                   	-                   	Y (0.81)           	Non-effector
+SGCHY_003978-T1 	-                   	Y (0.679)           	-                   	Apoplastic effector
+SGCHY_003979-T1 	-                   	-                   	Y (0.609)           	Non-effector
+SGCHY_003993-T1 	-                   	-                   	Y (0.991)           	Non-effector
+SGCHY_003996-T1 	-                   	-                   	Y (0.695)           	Non-effector
+SGCHY_003997-T1 	-                   	Y (0.613)           	-                   	Apoplastic effector
+SGCHY_003998-T1 	-                   	-                   	Y (0.62)           	Non-effector
+SGCHY_004007-T1 	-                   	-                   	Y (0.886)           	Non-effector
+SGCHY_004009-T1 	-                   	-                   	Y (0.744)           	Non-effector
+SGCHY_004041-T1 	-                   	-                   	Y (0.602)           	Non-effector
+SGCHY_004059-T1 	-                   	-                   	Y (0.546)           	Non-effector
+SGCHY_004063-T1 	-                   	-                   	Y (0.991)           	Non-effector
+SGCHY_004064-T1 	-                   	-                   	Y (0.987)           	Non-effector
+SGCHY_004078-T1 	-                   	Y (0.541)           	-                   	Apoplastic effector
+SGCHY_004107-T1 	-                   	-                   	Y (0.901)           	Non-effector
+SGCHY_004116-T1 	Y (0.709)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004117-T1 	-                   	-                   	Y (0.868)           	Non-effector
+SGCHY_004119-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCHY_004126-T1 	-                   	-                   	Y (0.747)           	Non-effector
+SGCHY_004131-T1 	-                   	-                   	Y (0.696)           	Non-effector
+SGCHY_004141-T1 	-                   	-                   	Y (0.968)           	Non-effector
+SGCHY_004143-T1 	Y (0.863)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004147-T1 	-                   	-                   	Y (0.616)           	Non-effector
+SGCHY_004148-T1 	Y (0.648)           	Y (0.564)           	-                   	Cytoplasmic/apoplastic effector
+SGCHY_004204-T1 	Y (0.725)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004263-T1 	-                   	-                   	Y (0.966)           	Non-effector
+SGCHY_004277-T1 	Y (0.666)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004280-T1 	Y (0.56)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004317-T1 	-                   	-                   	Y (0.919)           	Non-effector
+SGCHY_004322-T1 	-                   	-                   	Y (0.982)           	Non-effector
+SGCHY_004345-T1 	-                   	-                   	Y (0.966)           	Non-effector
+SGCHY_004349-T1 	-                   	-                   	Y (0.96)           	Non-effector
+SGCHY_004350-T1 	-                   	-                   	Y (0.886)           	Non-effector
+SGCHY_004383-T1 	-                   	-                   	Y (0.938)           	Non-effector
+SGCHY_004465-T1 	-                   	-                   	Y (0.812)           	Non-effector
+SGCHY_004503-T1 	Y (0.707)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004545-T1 	-                   	-                   	Y (0.851)           	Non-effector
+SGCHY_004554-T1 	-                   	-                   	Y (0.958)           	Non-effector
+SGCHY_004591-T1 	Y (0.559)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004593-T1 	-                   	Y (0.834)           	-                   	Apoplastic effector
+SGCHY_004595-T1 	-                   	-                   	Y (0.75)           	Non-effector
+SGCHY_004596-T1 	Y (0.752)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004628-T1 	Y (0.862)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004659-T1 	-                   	-                   	Y (0.671)           	Non-effector
+SGCHY_004666-T1 	Y (0.632)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004691-T1 	Y (0.67)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004731-T1 	-                   	Y (0.566)           	-                   	Apoplastic effector
+SGCHY_004739-T1 	-                   	-                   	Y (0.94)           	Non-effector
+SGCHY_004744-T1 	-                   	-                   	Y (0.905)           	Non-effector
+SGCHY_004756-T1 	-                   	-                   	Y (0.584)           	Non-effector
+SGCHY_004757-T1 	-                   	-                   	Y (0.743)           	Non-effector
+SGCHY_004771-T1 	Y (0.767)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004781-T1 	Y (0.66)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004790-T1 	-                   	-                   	Y (0.709)           	Non-effector
+SGCHY_004809-T1 	-                   	-                   	Y (0.632)           	Non-effector
+SGCHY_004827-T1 	-                   	-                   	Y (0.927)           	Non-effector
+SGCHY_004829-T1 	Y (0.515)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004836-T1 	-                   	-                   	Y (0.507)           	Non-effector
+SGCHY_004844-T1 	-                   	-                   	Y (0.618)           	Non-effector
+SGCHY_004857-T1 	Y (0.8)           	-                   	-                   	Cytoplasmic effector
+SGCHY_004897-T1 	-                   	-                   	Y (0.941)           	Non-effector
+SGCHY_004913-T1 	-                   	-                   	Y (0.534)           	Non-effector
+SGCHY_004932-T1 	-                   	-                   	Y (0.894)           	Non-effector
+SGCHY_004996-T1 	-                   	-                   	Y (0.503)           	Non-effector
+SGCHY_005009-T1 	-                   	-                   	Y (0.988)           	Non-effector
+SGCHY_005014-T1 	-                   	-                   	Y (0.78)           	Non-effector
+SGCHY_005019-T1 	-                   	-                   	Y (0.725)           	Non-effector
+SGCHY_005048-T1 	-                   	-                   	Y (0.696)           	Non-effector
+SGCHY_005051-T1 	-                   	-                   	Y (0.897)           	Non-effector
+SGCHY_005057-T1 	Y (0.628)           	Y (0.747)           	-                   	Apoplastic/cytoplasmic effector
+SGCHY_005069-T1 	Y (0.788)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005073-T1 	-                   	Y (0.922)           	-                   	Apoplastic effector
+SGCHY_005082-T1 	Y (0.688)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005085-T1 	Y (0.605)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005086-T1 	-                   	-                   	Y (0.629)           	Non-effector
+SGCHY_005114-T1 	Y (0.781)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005123-T1 	-                   	Y (0.52)           	-                   	Apoplastic effector
+SGCHY_005158-T1 	-                   	-                   	Y (0.778)           	Non-effector
+SGCHY_005168-T1 	Y (0.526)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005182-T1 	-                   	Y (0.511)           	-                   	Apoplastic effector
+SGCHY_005207-T1 	-                   	-                   	Y (0.827)           	Non-effector
+SGCHY_005210-T1 	Y (0.595)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005226-T1 	-                   	-                   	Y (0.891)           	Non-effector
+SGCHY_005236-T1 	-                   	-                   	Y (0.708)           	Non-effector
+SGCHY_005251-T1 	Y (0.853)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005253-T1 	-                   	-                   	Y (0.823)           	Non-effector
+SGCHY_005258-T1 	Y (0.858)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005288-T1 	-                   	-                   	Y (0.981)           	Non-effector
+SGCHY_005299-T1 	-                   	-                   	Y (0.523)           	Non-effector
+SGCHY_005313-T1 	-                   	-                   	Y (0.578)           	Non-effector
+SGCHY_005334-T1 	-                   	-                   	Y (0.945)           	Non-effector
+SGCHY_005336-T1 	Y (0.952)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005391-T1 	-                   	-                   	Y (0.666)           	Non-effector
+SGCHY_005400-T1 	-                   	-                   	Y (0.947)           	Non-effector
+SGCHY_005421-T1 	-                   	-                   	Y (0.561)           	Non-effector
+SGCHY_005423-T1 	-                   	-                   	Y (0.873)           	Non-effector
+SGCHY_005430-T1 	-                   	-                   	Y (0.597)           	Non-effector
+SGCHY_005435-T1 	-                   	-                   	Y (0.833)           	Non-effector
+SGCHY_005452-T1 	Y (0.805)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005470-T1 	Y (0.863)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005481-T1 	-                   	-                   	Y (0.971)           	Non-effector
+SGCHY_005484-T1 	Y (0.825)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005516-T1 	Y (0.917)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005545-T1 	-                   	-                   	Y (0.75)           	Non-effector
+SGCHY_005552-T1 	Y (0.653)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005554-T1 	-                   	-                   	Y (0.645)           	Non-effector
+SGCHY_005561-T1 	-                   	-                   	Y (0.669)           	Non-effector
+SGCHY_005569-T1 	Y (0.767)           	Y (0.758)           	-                   	Cytoplasmic/apoplastic effector
+SGCHY_005580-T1 	-                   	-                   	Y (0.512)           	Non-effector
+SGCHY_005584-T1 	-                   	-                   	Y (0.863)           	Non-effector
+SGCHY_005585-T1 	Y (0.73)           	-                   	-                   	Cytoplasmic effector
+SGCHY_005621-T1 	-                   	-                   	Y (0.635)           	Non-effector
+SGCHY_005645-T1 	-                   	Y (0.629)           	-                   	Apoplastic effector
+SGCHY_005647-T1 	-                   	-                   	Y (0.813)           	Non-effector

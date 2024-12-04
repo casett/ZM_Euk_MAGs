@@ -1,0 +1,94 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Batrachochytrium dendrobatidis JEL423		strain: JEL423	403673	BD_JEL423	GCA_000149865.1	GenBank	Annotation submitted by Broad Institute	Scaffold	221037	23722384	2006-10-25	8763	PRJNA13653	SAMN02953669
+Spizellomyces punctatus DAOM BR117		strain: DAOM BR117	645134	S_punctatus_V1	GCA_000182565.2	GenBank	Annotation submitted by Broad Institute	Scaffold	155888	24131112	2015-07-29	9169	PRJNA37881	SAMN00716787
+Batrachochytrium dendrobatidis JAM81		strain: JAM81	684364	v1.0	GCA_000203795.1	GenBank	Annotation submitted by US DOE Joint Genome Institute (JGI-PGF)	Scaffold	318114	24315081	2011-04-12	8700	PRJNA41157	SAMN02746048
+Gonapodya prolifera JEL478		strain: JEL478	1344416	Ganpr1	GCA_001574975.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	63757	48794828	2016-02-26	13912	PRJNA207863	SAMN02746072
+Batrachochytrium salamandrivorans		strain: AMFP13	1357716	Batr_sala_V2	GCA_002006685.2	GenBank	Annotation submitted by Broad Institute	Contig	915035	73346731	2022-12-08	10867	PRJNA311566	SAMN04485880
+Anaeromyces robustus		strain: S4	1754192	Anaeromyces sp. S4 v1.0	GCA_002104895.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	141798	71685009	2017-04-20	13083	PRJNA330692	SAMN05421914
+Piromyces finnis		strain: finn	1754191	Piromyces sp. finnis v3.0	GCA_002104945.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	749539	56455805	2017-04-20	11314	PRJNA330696	SAMN05421903
+Neocallimastix californiae		strain: G1	1754190	Neocallimastix sp. G1 v1.0	GCA_002104975.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	443414	193032486	2017-04-20	21039	PRJNA262392	SAMN05428678
+Rhizoclosmatium globosum		strain: JEL800	329046	Rhihy1	GCA_002104985.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	292246	57018351	2017-04-20	17656	PRJNA330693	SAMN05421919
+Piromyces sp. E2		strain: E2	73868	PirspE2 v1.0	GCA_002157105.1	GenBank	Annotation submitted by JGI	Scaffold	2723	71019055	2017-05-24	14612	PRJNA82799	SAMN00788684
+Blyttiomyces helicus		isolate: Perch Fen	388810	Blyhe1	GCA_003614705.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	6174	46468912	2018-10-04	12466	PRJNA332782	SAMN05443170
+Caulochytrium protostelioides		strain: ATCC 52028	1555241	Caupr_SCcomb	GCA_003615035.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	4387	10621642	2018-10-05	3423	PRJNA421603	SAMN09741939
+Caulochytrium protostelioides		strain: ATCC 52028	1555241	Caupr1	GCA_003615045.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	88443	21796879	2018-10-05	6290	PRJNA421608	SAMN08148457
+Synchytrium endobioticum		strain: MB42	286115	ASM653595v1	GCA_006535955.1	GenBank	Annotation submitted by Agriculture and Agri-Food Canada	Scaffold	17164	21483073	2019-07-01	8031	PRJNA453734	SAMN08987200
+Spizellomyces sp. 'palustris'		strain: CBS 455.65	117820	ASM653596v1	GCA_006535965.1	GenBank	Annotation submitted by Agriculture and Agri-Food Canada	Scaffold	173429	22937368	2019-07-01	8518	PRJNA453746	SAMN08987487
+Chytriomyces confervae		strain: CBS 675.73	246404	ASM653597v1	GCA_006535975.1	GenBank	Annotation submitted by Agriculture and Agri-Food Canada	Scaffold	29705	35973405	2019-07-01	10712	PRJNA453741	SAMN08987275
+Synchytrium microbalum		strain: JEL517	1806994	ASM653598v1	GCA_006535985.1	GenBank	Annotation submitted by Agriculture and Agri-Food Canada	Scaffold	425386	26244175	2019-07-01	6308	PRJNA453749	SAMN08987497
+Powellomyces hirtus		strain: CBS 809.83	109895	ASM653600v1	GCA_006536005.1	GenBank	Annotation submitted by Agriculture and Agri-Food Canada	Scaffold	99497	26238698	2019-07-01	6536	PRJNA453744	SAMN08987381
+Synchytrium endobioticum		strain: LEV6574	286115	ASM653604v1	GCA_006536045.1	GenBank	Annotation submitted by Agriculture and Agri-Food Canada	Contig	40485	23209196	2019-07-01	8671	PRJNA453731	SAMN08987096
+Neocallimastix sp. JGI-2020a		strain: sp3	2767002	ASM1694683v1	GCA_016946835.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	1031807	200969634	2021-02-24	29690	PRJNA658393	SAMN15902602
+Batrachochytrium salamandrivorans		strain: AMFP15/2	1357716	AMFP15.2.pb	GCA_020617195.1	GenBank	Annotation submitted by Ghent University	Scaffold	77957	34923029	2021-10-26	10528	PRJNA610831	SAMN14316978
+Batrachochytrium salamandrivorans		strain: AMFP15/1	1357716	AMFP15.1.pb	GCA_020617715.1	GenBank	Annotation submitted by Ghent University	Scaffold	79662	35589761	2021-10-26	10596	PRJNA610831	SAMN14316977
+Batrachochytrium salamandrivorans		strain: AMFP15/3	1357716	AMFP15.3.pb	GCA_020617725.1	GenBank	Annotation submitted by Ghent University	Scaffold	72661	38362224	2021-10-26	11591	PRJNA610831	SAMN14316979
+Batrachochytrium salamandrivorans		strain: AMFP18/2	1357716	ASM2061773v1	GCA_020617735.1	GenBank	Annotation submitted by Ghent University	Scaffold	188148	40041066	2021-10-26	11411	PRJNA610831	SAMN17104242
+Batrachochytrium salamandrivorans		strain: AMFP14/2	1357716	ASM2155665v1	GCA_021556655.1	GenBank	Annotation submitted by Ghent University	Contig	27733	27675237	2022-01-23	1271	PRJNA623491	SAMN14316976
+Batrachochytrium salamandrivorans		strain: AMFP14/2	1357716	ASM2155666v1	GCA_021556665.1	GenBank	Annotation submitted by Ghent University	Contig	122518	41561795	2022-01-23	18326	PRJNA623492	SAMN14316976
+Batrachochytrium salamandrivorans		strain: AMFP13/1	1357716	ASM2155667v1	GCA_021556675.1	GenBank	Annotation submitted by Ghent University	Contig	346311	41738742	2022-01-23	13318	PRJNA623494	SAMN14316973
+Batrachochytrium salamandrivorans		strain: AMFP13/1	1357716	ASM2155670v1	GCA_021556705.1	GenBank	Annotation submitted by Ghent University	Contig	100537	36867569	2022-01-23	1722	PRJNA623493	SAMN14316973
+Chytriomyces sp. MP71		strain: MP71	1882861	Chytri1	GCA_025201725.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	34310	36383760	2022-09-08	16156	PRJNA331557	SAMN05519258
+Geranomyces variabilis		strain: JEL 559	109894	Gervar1	GCA_025399175.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	180595	23695997	2022-09-23	9579	PRJNA334359	SAMN05445907
+Globomyces pollinis-pini		strain: Arg68	382532	Glopol1	GCA_025399215.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	39298	21646612	2022-09-23	11680	PRJNA331560	SAMN05444513
+Chytriomyces cf. hyalinus JEL632		strain: JEL632	1907226	Chyhya1	GCA_025435555.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	312457	38103441	2022-09-27	15939	PRJNA346871	SAMN05920684
+Chytridium lagenaria		strain: Arg66	64509	Chylag1	GCA_025449115.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	216171	42380874	2022-09-27	14527	PRJNA331556	SAMN05444510
+Entophlyctis helioformis		strain: JEL805	281842	Enthel1	GCA_025526915.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	103262	30915201	2022-09-30	10408	PRJNA331558	SAMN05444511
+Cladochytrium replicatum		strain: JEL 714	109936	Clarep1_1	GCA_025526935.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	394289	50665862	2022-09-27	16604	PRJNA346872	SAMN05877945
+Gorgonomyces haynaldii		strain: MP57	382530	Gorhay1	GCA_025526955.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	597596	13983420	2022-09-30	7987	PRJNA500838	SAMN10363223
+Fimicolochytrium jonesii		strain: JEL569	1396493	Fimjon1	GCA_025526975.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	799348	30619153	2022-09-27	10238	PRJNA519863	SAMN10865777
+Powellomyces hirtus		strain: BR81	109895	Powhir1	GCA_025526995.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	1016081	29428253	2022-09-30	9631	PRJNA460973	SAMN09070657
+Gaertneriomyces semiglobifer		strain: Barr 43	109897	Gaesem1	GCA_025558075.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	575746	20918219	2022-10-03	8899	PRJNA331559	SAMN05444512
+Hyaloraphidium curvatum		strain: SAG235-1	82268	Hyacur1	GCA_025558095.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	722379	31926619	2022-10-03	15219	PRJNA460970	SAMN09070631
+Polychytrium aggregatum		strain: JEL109	110093	Polagg1_1	GCA_025602895.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	389128	64917104	2022-10-05	11068	PRJNA346301	SAMN05920836
+Phlyctochytrium arcticum		strain: BR59	1117335	Triarc1	GCA_025602905.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	855893	31548172	2022-10-04	11177	PRJNA463939	SAMN09075414
+Obelidium mucronatum		strain: JEL802	110081	Obemuc1	GCA_025765595.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	189008	49458483	2022-10-16	15912	PRJNA333499	SAMN05443010
+Zopfochytrium polystomum		strain: WB228	2211651	Clapol1_1	GCA_025765615.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	222082	81192468	2022-10-16	18060	PRJNA460969	SAMN09070748
+Cladochytrium tenue		strain: CCIBt4013	1604274	ASM2695451v1	GCA_026954515.1	GenBank	Annotation submitted by University of Michigan	Scaffold	4907	48956424	2022-12-16	16105	PRJNA630055	SAMN14820662
+Nowakowskiella sp. JEL0078		strain: JEL0078	2732417	ASM2695501v1	GCA_026955015.1	GenBank	Annotation submitted by University of Michigan	Scaffold	2604	33052143	2022-12-16	11666	PRJNA629968	SAMN14815055
+Globomyces sp. JEL0801		strain: JEL0801	2786946	ASM2759588v1	GCA_027595885.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	42882	16104292	2023-01-09	6786	PRJNA619749	SAMN14534833
+Thoreauomyces humboldtii		strain: JEL0095	1396496	ASM2759603v1	GCA_027596035.1	GenBank	Annotation submitted by University of Michigan	Scaffold	21622	26328562	2023-01-09	9604	PRJNA629855	SAMN14792866
+Siphonaria sp. JEL0065		strain: JEL0065	2723227	ASM2759606v1	GCA_027596065.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	21877	37595823	2023-01-09	12956	PRJNA619581	SAMN14515488
+Rhizophlyctis rosea		strain: JEL0764	64517	ASM2759607v1	GCA_027596075.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	51757	48149512	2023-01-09	12847	PRJNA619747	SAMN14511978
+Rhizophlyctis rosea		strain: JEL0318	64517	ASM2759613v1	GCA_027596135.1	GenBank	Annotation submitted by University of Michigan	Scaffold	21335	38859322	2023-01-09	11709	PRJNA629969	SAMN14815128
+Rhizoclosmatium hyalinum		strain: JEL0917	2724196	ASM2759617v1	GCA_027596175.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	2336	23450088	2023-01-09	11010	PRJNA619746	SAMN14534842
+Podochytrium sp. JEL0797		strain: JEL0797	2724200	ASM2759619v1	GCA_027596195.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	20738	32060568	2023-01-09	12365	PRJNA619745	SAMN14534840
+Quaeritorhiza haematococci		strain: JEL0916	2654861	ASM2759684v1	GCA_027596845.1	GenBank	Annotation submitted by University of Michigan	Scaffold	11502	48216127	2023-01-09	14220	PRJNA629978	SAMN14816274
+Physocladia obscura		strain: JEL0513	109957	ASM2759694v1	GCA_027596945.1	GenBank	Annotation submitted by University of Michigan	Scaffold	9426	44089900	2023-01-09	12959	PRJNA629974	SAMN14815131
+Phlyctochytrium bullatum		strain: JEL0754	1352834	ASM2759700v1	GCA_027597005.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	24397	40192336	2023-01-09	11159	PRJNA619743	SAMN14511965
+Nowakowskiella sp. JEL0407		strain: JEL0407	2732418	ASM2760064v1	GCA_027600645.1	GenBank	Annotation submitted by University of Michigan	Contig	52255	22616348	2023-01-09	8399	PRJNA629972	SAMN14815129
+Irineochytrium annulatum		strain: JEL0729	109884	ASM2760066v1	GCA_027600665.1	GenBank	Annotation submitted by University of Michigan	Scaffold	18884	36839710	2023-01-09	12083	PRJNA629976	SAMN14815227
+Phlyctochytrium planicorne		strain: JEL0388	261098	ASM2760067v1	GCA_027600675.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	79884	30010325	2023-01-09	10461	PRJNA619744	SAMN14511787
+Geranomyces variabilis		strain: JEL0566	109894	ASM2760068v1	GCA_027600685.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	207909	23613044	2023-01-09	8980	PRJNA619736	SAMN14512003
+Geranomyces variabilis		strain: JEL0567	109894	ASM2760148v1	GCA_027601485.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	246825	23750802	2023-01-09	9201	PRJNA619737	SAMN14511912
+Geranomyces michiganensis		strain: JEL0563	1134077	ASM2760200v1	GCA_027602005.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	133042	23465858	2023-01-09	8550	PRJNA619733	SAMN14511933
+Geranomyces variabilis		strain: JEL0379	109894	ASM2760270v1	GCA_027602705.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	108379	23394538	2023-01-09	8865	PRJNA619734	SAMN14511805
+Geranomyces variabilis		strain: JEL0389	109894	ASM2760306v1	GCA_027603065.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	343703	24136728	2023-01-09	9047	PRJNA619735	SAMN14511785
+Gaertneriomyces sp. JEL0708		strain: JEL0708	2724198	ASM2760364v1	GCA_027603645.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	315491	20557201	2023-01-09	7840	PRJNA619732	SAMN14534835
+Entophlyctis luteolus		strain: JEL0120	109932	ASM2760365v1	GCA_027603655.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	16966	25900143	2023-01-09	9330	PRJNA619729	SAMN14512002
+Terramyces sp. JEL0728		strain: JEL0728	2724204	ASM2760394v1	GCA_027603945.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	101760	15585454	2023-01-09	7925	PRJNA619748	SAMN14534848
+Chytridiaceae sp. PML-2015		strain: KLL_TL_06062013	1774096	ASM2760400v1	GCA_027604005.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	24847	31510542	2023-01-09	10444	PRJNA619580	SAMN14511961
+Clydaea vesicula		strain: JEL0476	447962	ASM2760406v1	GCA_027604065.1	GenBank	Annotation submitted by University of Michigan	Scaffold	14665	24650228	2023-01-09	8737	PRJNA629973	SAMN14815130
+Chytriomyces hyalinus		strain: JEL0345	4814	ASM2760408v1	GCA_027604085.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	41827	28404701	2023-01-09	11439	PRJNA619728	SAMN14511963
+Chytriomyces hyalinus		strain: ARG121	4814	ASM2760410v1	GCA_027604105.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	52956	29515939	2023-01-09	11881	PRJNA619725	SAMN14511932
+Chytriomyces hyalinus		strain: ARG085	4814	ASM2760416v1	GCA_027604165.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	50756	29777168	2023-01-09	11874	PRJNA619724	SAMN14511809
+Boothiomyces macroporosus		strain: PLAUS21	261099	ASM2760418v1	GCA_027604185.1	GenBank	Annotation submitted by University of Michigan	Contig	109397	15700521	2023-01-09	7707	PRJNA629979	SAMN14816286
+Boothiomyces sp. JEL0838		strain: JEL0838	2724207	ASM2760424v1	GCA_027604245.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	116125	12849375	2023-01-09	6329	PRJNA619751	SAMN14534844
+Chytridiales sp. JEL 0842		strain: JEL 0842	2786947	ASM2760430v1	GCA_027604305.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	54795	26948520	2023-01-09	8827	PRJNA619752	SAMN14534854
+Boothiomyces sp. JEL0866		strain: JEL0866	2724215	ASM2760434v1	GCA_027604345.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	114768	14241334	2023-01-09	7181	PRJNA619753	SAMN14534850
+Rhizoclosmatium sp. JEL0117		strain: JEL0117	2784343	ASM2760436v1	GCA_027604365.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	40205	30544921	2023-01-09	12077	PRJNA619726	SAMN14512103
+Kappamyces sp. JEL0680		strain: JEL0680	2724210	ASM2760440v1	GCA_027604405.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	6749	13243986	2023-01-09	7535	PRJNA619738	SAMN14534852
+Kappamyces sp. JEL0829		strain: JEL0829	2724216	ASM2760446v1	GCA_027604465.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	100276	11695702	2023-01-09	5566	PRJNA619750	SAMN14534849
+Gonapodya sp. JEL0774		strain: JEL0774	2725673	ASM2760450v1	GCA_027604505.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	44421	35595249	2023-01-09	10112	PRJNA619740	SAMN14569673
+Entophlyctis sp. JEL0112		strain: JEL0112	2724211	ASM2760454v1	GCA_027604545.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	25538	26962913	2023-01-09	9896	PRJNA619731	SAMN14534855
+Borealophlyctis nickersoniae		strain: WJD170	2735257	ASM2760460v1	GCA_027604605.1	GenBank	Annotation submitted by University of Michigan	Scaffold	15930	38361113	2023-01-09	11521	PRJNA629981	SAMN14816287
+Blyttiomyces sp. JEL0837		strain: JEL0837	2724214	ASM2760462v1	GCA_027604625.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	5646	46468325	2023-01-09	14135	PRJNA619723	SAMN14534847
+Polyrhizophydium stewartii		strain: JEL0888	2732419	ASM2760466v1	GCA_027604665.1	GenBank	Annotation submitted by University of Michigan	Scaffold	11431	23303880	2023-01-09	8407	PRJNA629982	SAMN14816300
+Lobulomyces angularis		strain: JEL0522	109889	ASM2760468v1	GCA_027604685.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	26617	24944094	2023-01-09	9208	PRJNA619739	SAMN14511786
+Entophlyctis luteolus		strain: JEL0129	109932	ASM2760472v1	GCA_027604725.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	53121	27694625	2023-01-09	9984	PRJNA619730	SAMN14511964
+Chytriomyces hyalinus		strain: JEL0176	4814	ASM2760474v1	GCA_027604745.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	28612	29467998	2023-01-09	11820	PRJNA619727	SAMN14512104
+Batrachochytrium dendrobatidis		strain: CLFT071	109871	UCR_BdCLFT071_1.0	GCA_029704095.1	GenBank	Annotation submitted by University of California, Riverside	Scaffold	714040	22218474	2023-04-12	8721	PRJNA913953	SAMN32315008
+Spizellomyces punctatus DAOM BR117		strain: DAOM BR117	645134	S_punctatus_V1	GCF_000182565.1	RefSeq	Annotation submitted by Broad Institute	Scaffold	155888	24131112	2015-07-29	9169	PRJNA37881	SAMN00716787
+Batrachochytrium dendrobatidis JAM81		strain: JAM81	684364	v1.0	GCF_000203795.2	RefSeq	Annotation submitted by US DOE Joint Genome Institute (JGI-PGF)	Scaffold	318527	23810896	2011-04-12	8386	PRJNA41157	SAMN02746048
+Synchytrium microbalum		strain: JEL517	1806994	ASM653598v1	GCF_006535985.1	RefSeq	Annotation submitted by Agriculture and Agri-Food Canada	Scaffold	425386	26244175	2019-07-01	6304	PRJNA453749	SAMN08987497
+Fimicolochytrium jonesii		strain: JEL569	1396493	Fimjon1	GCF_025526975.1	RefSeq	Annotation submitted by DOE Joint Genome Institute	Contig	799348	30619153	2022-09-27	10236	PRJNA519863	SAMN10865777
+Polychytrium aggregatum		strain: JEL109	110093	Polagg1_1	GCF_025602895.1	RefSeq	Annotation submitted by DOE Joint Genome Institute	Contig	389128	64917104	2022-10-05	11051	PRJNA346301	SAMN05920836

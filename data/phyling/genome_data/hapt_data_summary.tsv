@@ -1,0 +1,6 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Emiliania huxleyi CCMP1516		strain: CCMP1516	280463	Emiliana huxleyi CCMP1516 main genome assembly v1.0	GCA_000372725.1	GenBank	Annotation submitted by JGI	Scaffold	29715	167675649	2013-05-02	38549	PRJNA77753	SAMN02744062
+Chrysochromulina tobinii		strain: CCMP291	1460289	Ctobinv2	GCA_001275005.1	GenBank	Annotation submitted by University of Washington	Contig	24114	59073094	2015-08-26	16754	PRJNA263501	SAMN03102970
+Diacronema lutheri		strain: NIVA-4/92	2081491	MSCA_Paluth_1.1	GCA_019448385.1	GenBank	Annotation submitted by Nord University	Contig	852258	43502671	2021-08-04	14446	PRJNA725470	SAMN18879650
+Pavlovales sp. CCMP2436		strain: CCMP2436	483367	Pavlov2436_1	GCA_026770615.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	5960	165404270	2022-12-09	26112	PRJNA223446	SAMN00809028
+Emiliania huxleyi CCMP1516		strain: CCMP1516	280463	Emiliana huxleyi CCMP1516 main genome assembly v1.0	GCF_000372725.1	RefSeq	Annotation submitted by JGI	Scaffold	29715	167675649	2013-05-02	38549	PRJNA77753	SAMN02744062

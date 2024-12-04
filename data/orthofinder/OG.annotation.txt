@@ -1,0 +1,20 @@
+OG	Function	Secreted	Membrane	Effector
+OG0000001	Zinc finger C2H2 superfamily 			
+OG0000004	Chitin deacetylase / NodB homology-domain containing protein	Yes		
+OG0000040	Tyrosinase	Yes		
+OG0000140	Amino acid permease		Yes	
+OG0000160	Leucine-rich repeat	Yes		Yes
+OG0001087	Zinc-dependent metallopeptidase	Yes		
+OG0002600	Glycosyltransferase 2-like domain-containing protein		Yes	
+OG0004642	E2 ubiquitin-conjugating enzyme			
+OG0006065	Hypothetical protein		Yes	
+OG0006164	Glutaminase			
+OG0006205	Glycosyl hydrolase 17 	Yes		
+OG0007156	 Galactose-binding-like domain	Yes		
+OG0009648	Leucine-rich repeat receptor-like kinase		Yes	
+OG0014609	Leucine-rich repeat receptor-like kinase		Yes	
+OG0018916	Sel-1 like / Major facilitator superfamily (MFS) protein		Yes	
+OG0025696	Hypothetical protein	Yes		Yes
+OG0029463	HECT-type E3 ubiquitin ligase 			
+OG0029464	Hypothetical protein	Yes		Yes
+OG0029465	Hypothetical protein			

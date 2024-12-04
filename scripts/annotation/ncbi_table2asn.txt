@@ -1,0 +1,15 @@
+table2asn -indir ncbi -M n -Z -J -c w -euk -t sbt.sbt -l paired-ends -j "[organism=Lobulomycetales][isolate=SGEUK-03][SRA=SRR29999183,SRR29999184,SRR29999185]" -locus-tag-prefix SGCHY -o SGEUK-03.sqn -V b -y "Annotated using Funannotate 1.8.15"
+
+
+table2asn -indir ncbi -M n -Z -J -c w -euk -t sbt.sbt -l paired-ends -j "[organism=Bacillariaceae][isolate=SGEUK-01][SRA=SRR29999183,SRR29999184,SRR29999185]" -locus-tag-prefix SGBAC -o SGEUK-01.sqn -V b -y "Annotated using Funannotate 1.8.15"
+
+
+table2asn -indir ncbi -M n -Z -J -c w -euk -t sbt.sbt -l paired-ends -j "[organism=Bacillariaceae][isolate=SGEUK-02][SRA=SRR29999183,SRR29999184,SRR29999185]" -locus-tag-prefix SGILL -o SGEUK-02.sqn -V b -y "Annotated using Funannotate 1.8.15"
+
+
+table2asn -indir ncbi -M n -Z -J -c w -euk -t sbt.sbt -l paired-ends -j "[organism=Bacillariaceae][isolate=SGEUK-04][SRA=SRR29999183,SRR29999184,SRR29999185]" -locus-tag-prefix SGARI -o SGEUK-04.sqn -V b -y "Annotated using Funannotate 1.8.15"
+
+
+table2asn -indir ncbi -M n -Z -J -c w -euk -t sbt.sbt -l paired-ends -j "[organism=Prymnesium][isolate=SGEUK-05][SRA=SRR29999183,SRR29999184,SRR29999185]" -locus-tag-prefix SGPRY -o SGEUK-05.sqn -V b -y "Annotated using Funannotate 1.8.15"
+
+

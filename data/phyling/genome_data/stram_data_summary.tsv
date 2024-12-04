@@ -1,0 +1,168 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Phytophthora infestans T30-4		strain: T30-4	403677	ASM14294v1	GCA_000142945.1	GenBank	Annotation submitted by Broad Institute	Scaffold	44484	228543505	2009-06-17	19344	PRJNA17665	SAMN02953670
+Thalassiosira pseudonana CCMP1335		strain: CCMP1335	296543	ASM14940v2	GCA_000149405.2	GenBank	Annotation submitted by Diatom Consortium	Chromosome	1267198	32437365	2009-01-16	11771	PRJNA191	SAMN02744045
+Phytophthora sojae		strain: P6497	67593	P.sojae V3.0	GCA_000149755.2	GenBank	Annotation submitted by US DOE Joint Genome Institute, USA, Walnut Creek	Scaffold	385992	82597641	2011-10-03	28142	PRJNA17989	SAMN02953656
+Phaeodactylum tricornutum CCAP 1055/1		strain: CCAP 1055/1	556484	ASM15095v2	GCA_000150955.2	GenBank	Annotation submitted by Diatom Consortium	Chromosome	417209	27450724	2008-12-12	10398	PRJNA13152	SAMN02953727
+Saprolegnia parasitica CBS 223.65		strain: CBS 223.65	695850	ASM15154v2	GCA_000151545.2	GenBank	Annotation submitted by Broad Institute	Scaffold	34471	53093248	2014-05-29	20435	PRJNA36583	SAMN02981252
+Blastocystis hominis		isolate: Singapore isolate B (sub-type 7)	12968	ASM15166v1	GCA_000151665.1	GenBank	Annotation submitted by Genoscope - Institut de Genomique - CEA	Scaffold	296810	18817245	2010-07-06	6020	PRJEA45923	SAMEA2272370
+Aureococcus anophagefferens		strain: CCMP1984	44056	v 1.0	GCA_000186865.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	34096	56660572	2011-02-15	11522	PRJNA13500	SAMN02953754
+Nannochloropsis gaditana CCMP526		strain: CCMP526	1093141	ASM24072v1	GCA_000240725.1	GenBank	Annotation submitted by Colorado School of Mines	Scaffold	21340	33986952	2012-01-04	3558	PRJNA73791	SAMN02981382
+Phytophthora parasitica INRA-310		strain: INRA-310	761204	PP_INRA-310_V2	GCA_000247585.2	GenBank	Annotation submitted by Broad Institute	Scaffold	24397	82389172	2013-12-19	23240	PRJNA73155	SAMN02981373
+Saprolegnia diclina VS20		strain: VS20	1156394	Sap_diclina_VS20_V1	GCA_000281045.1	GenBank	Annotation submitted by Broad Institute	Scaffold	30015	62885792	2013-02-22	17448	PRJNA86859	SAMN02981407
+Thalassiosira oceanica		strain: CCMP1005	159749	ThaOc_1.0	GCA_000296195.2	GenBank	Annotation submitted by DFG Cluster of Excellence 'Future Ocean'	Contig	3628	92043847	2012-07-25	34684	PRJNA36595	SAMN02981384
+Ectocarpus siliculosus		strain: Ec 32	2880	ASM31002v1	GCA_000310025.1	GenBank	Annotation submitted by Genoscope - CEA	Chromosome	32613	195810619	2010-06-24	16567	PRJEA42625	SAMEA2271914
+Phytophthora kernoviae 00238/432		strain: 00238/432	1284355	PhyKer238_432v3	GCA_000333075.3	GenBank	Annotation submitted by University of Exeter	Scaffold	54301	42518343	2020-04-24	11684	PRJNA184368	SAMN02981496
+Phytophthora parasitica P1569		strain: P1569	1317065	Phyt_para_P1569_V1	GCA_000365505.1	GenBank	Annotation submitted by Broad Institute	Contig	27178	55229644	2013-04-16	23269	PRJNA181332	SAMN01816558
+Phytophthora parasitica P1976		strain: P1976	1317066	Phyt_para_P1976_V1	GCA_000365525.1	GenBank	Annotation submitted by Broad Institute	Contig	28475	54884257	2013-04-16	23246	PRJNA181333	SAMN01816559
+Phytophthora parasitica CJ01A1		strain: CJ01A1	1317063	Phyt_para_CJ01A1_V1	GCA_000365545.1	GenBank	Annotation submitted by Broad Institute	Contig	27622	54289861	2013-04-16	23159	PRJNA181330	SAMN01816556
+Phytophthora parasitica P10297		strain: P10297	1317064	Phyt_para_P10297_V1	GCA_000367145.1	GenBank	Annotation submitted by Broad Institute	Contig	23769	54574294	2013-04-16	23230	PRJNA181331	SAMN01816557
+Phytophthora parasitica		strain: CJ02B3	4792	Phyt_para_CJ02B3_V1	GCA_000509465.1	GenBank	Annotation submitted by Broad Institute	Scaffold	15896	48075161	2013-12-18	22051	PRJNA205154	SAMN02178347
+Phytophthora parasitica		strain: CJ05E6	4792	Phyt_para_CJ05E6_V1	GCA_000509485.1	GenBank	Annotation submitted by Broad Institute	Scaffold	14867	47449104	2013-12-18	21865	PRJNA205155	SAMN02178348
+Phytophthora parasitica		strain: CHvinca01	4792	Phyt_para_CHvinca01_V1	GCA_000509505.1	GenBank	Annotation submitted by Broad Institute	Scaffold	15758	47809385	2013-12-18	21749	PRJNA205156	SAMN02178349
+Phytophthora parasitica		strain: IAC_01/95	4792	Phyt_para_IAC_01_95_V1	GCA_000509525.1	GenBank	Annotation submitted by Broad Institute	Scaffold	15796	47716731	2013-12-18	21852	PRJNA205153	SAMN02178346
+Aphanomyces astaci		strain: APO3	112090	Apha_asta_APO3_V1	GCA_000520075.1	GenBank	Annotation submitted by Broad Institute	Scaffold	36439	75844385	2014-01-14	19584	PRJNA187372	SAMN01906578
+Aphanomyces invadans		strain: NJM9701	157072	Apha_inva_NJM9701_V1	GCA_000520115.1	GenBank	Annotation submitted by Broad Institute	Scaffold	30531	71402472	2014-01-15	15416	PRJNA188082	SAMN01907307
+Nannochloropsis gaditana		strain: B-31	72520	NagaB31_1.0	GCA_000569095.1	GenBank	Annotation submitted by CRIBI Genomics University of Padova	Chromosome	39853	27432140	2014-02-18	10705	PRJNA170989	SAMN02440168
+Blastocystis sp. subtype 4		strain: WR1	944170	ASM74375v1	GCA_000743755.1	GenBank	Annotation submitted by Clermont Universite, Universite Blaise Pascal, CNRS UMR 6023	Scaffold	29524	12919355	2014-09-29	5707	PRJNA257240	SAMN02949638
+Phytophthora kernoviae		strain: NZFS 3630	325452	NZFS3630v3	GCA_000785725.3	GenBank	Annotation submitted by University of Exeter	Scaffold	56968	36712010	2021-02-09	9884	PRJNA257648	SAMN02953542
+Phytophthora kernoviae		strain: NZFS 2646	325452	NZFS2646v3	GCA_000785735.3	GenBank	Annotation submitted by University of Exeter	Scaffold	62396	36590891	2021-02-09	9852	PRJNA257640	SAMN02953537
+Pythium insidiosum		strain: Pi-S	114742	Pythium_PINS_2.0	GCA_001029375.2	GenBank	Annotation submitted by King Mongkut's University of Technology Thonburi	Contig	229865	66713539	2022-10-18	24605	PRJDB3817	SAMD00028776
+Albugo candida		strain: Ac Nc2	65357	ASM107853v1	GCA_001078535.1	GenBank	Annotation submitted by TSL	Scaffold	51405	34452595	2014-05-15	13558	PRJEB32	SAMEA3146300
+Phytophthora nicotianae	buckeye rot agent	strain: race 1	4790	ASM148298v1	GCA_001482985.1	GenBank	Annotation submitted by Chinese Academy of Sciences	Scaffold	27164	71413976	2015-12-29	10521	PRJNA294216	SAMN04017960
+Phytophthora nicotianae	buckeye rot agent	strain: race 0	4790	ASM148301v1	GCA_001483015.1	GenBank	Annotation submitted by Chinese Academy of Sciences	Scaffold	23734	81610141	2015-12-29	17348	PRJNA294216	SAMN04017959
+Blastocystis sp. ATCC 50177/Nand II		strain: NandII	478820	ASM165121v1	GCA_001651215.1	GenBank	Annotation submitted by Dalhousie University	Scaffold	36659	16468307	2016-05-24	6617	PRJNA308101	SAMN04386717
+Phytophthora kernoviae		isolate: Chile2	325452	PkChile2v2.0	GCA_001707905.2	GenBank	Annotation submitted by University of Exeter	Scaffold	63940	38203779	2018-10-17	9922	PRJNA328213	SAMN05366390
+Nothophytophthora sp. Chile5		isolate: Chile5	2483409	PfChile5v2.0	GCA_001712635.2	GenBank	Annotation submitted by University of Exeter	Scaffold	15699	84445542	2018-10-17	27122	PRJNA328215	SAMN05366399
+Phytophthora kernoviae		isolate: Chile7	325452	PkChile7v2.0	GCA_001712645.2	GenBank	Annotation submitted by University of Exeter	Scaffold	33020	37002228	2018-10-17	10129	PRJNA328216	SAMN05366400
+Phytophthora kernoviae		isolate: Chile6	325452	PkChile6v2.0	GCA_001712705.2	GenBank	Annotation submitted by University of Exeter	Scaffold	58474	36690292	2018-10-17	10058	PRJNA328396	SAMN05370962
+Phytophthora kernoviae		isolate: Chile4	325452	PkChile4v2.0	GCA_001712715.2	GenBank	Annotation submitted by University of Exeter	Scaffold	61464	37367739	2018-10-17	9842	PRJNA328394	SAMN05370961
+Fragilariopsis cylindrus CCMP1102		strain: CCMP1102	635003	Fracy1	GCA_001750085.1	GenBank	Annotation submitted by JGI-PGF	Scaffold	78226	80540407	2016-09-30	18246	PRJNA32761	SAMN02744060
+Thraustotheca clavata		strain: ATCC 34112	74557	Thrcla_v1	GCA_002081575.1	GenBank	Annotation submitted by University of Rhode Island	Scaffold	13445	39100730	2017-04-06	13174	PRJNA169235	SAMN02690055
+Achlya hypogyna		strain: ATCC 48635	1202772	ACH_lane_v1	GCA_002081595.1	GenBank	Annotation submitted by University of Rhode Island	Scaffold	35886	43398470	2017-04-06	14406	PRJNA169234	SAMN02690054
+Aphanomyces astaci		isolate: Pc	112090	ASM219758v2	GCA_002197585.2	GenBank	Annotation submitted by University of Exeter	Scaffold	16588	51769116	2018-11-27	14014	PRJNA378874	SAMN06563026
+Phytophthora megakarya		strain: zdho120	4795	ASM221536v1	GCA_002215365.1	GenBank	Annotation submitted by Beltsville Agricultural Research Center	Scaffold	6901	101504516	2017-07-06	40763	PRJNA318028	SAMN04632436
+Fistulifera solaris		strain: JPCC DA0580	1519565	Fsol_1.0	GCA_002217885.1	GenBank	Annotation submitted by Tokyo University of Agriculture and Technology	Scaffold	75175	49736633	2017-06-26	20458	PRJDB2969	SAMD00018578
+Hondaea fermentalgiana			2315210	Aurantiochytrium_FCC1311_v1	GCA_002897355.1	GenBank	Annotation submitted by Fermentalg - 4 Rue Riviere - Libourne - 33500 - France	Scaffold	22474	38943350	2017-12-21	11853	PRJDB6540	SAMD00106359
+Phytophthora palmivora var. palmivora		strain: sbr112.9	611791	ASM291172v1	GCA_002911725.1	GenBank	Annotation submitted by Beltsville Agricultural Research Center	Scaffold	6457	107772931	2018-02-02	28185	PRJNA318026	SAMN04632378
+Phytophthora cactorum		strain: 10300	29920	Pcac_10300_v1	GCA_003287315.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	17936	59251042	2018-07-03	23884	PRJNA343457	SAMN05788413
+Aphanomyces invadans		strain: NJM0002	157072	inv_NJM0002	GCA_003546525.1	GenBank	Annotation submitted by University of Exeter	Contig	13944	52164269	2018-09-11	10899	PRJNA484796	SAMN09769773
+Aphanomyces astaci		strain: Si	112090	astaci_Si	GCA_003546545.1	GenBank	Annotation submitted by University of Exeter	Contig	8462	53525515	2018-09-11	14340	PRJNA484796	SAMN09769272
+Aphanomyces astaci		strain: Kv	112090	astaci_KV	GCA_003546565.1	GenBank	Annotation submitted by University of Exeter	Contig	8730	53701190	2018-09-11	14410	PRJNA484796	SAMN09769276
+Aphanomyces astaci		strain: D2	112090	astaci_D2	GCA_003546585.1	GenBank	Annotation submitted by University of Exeter	Contig	8836	53464605	2018-09-11	14358	PRJNA484796	SAMN09769426
+Aphanomyces astaci		strain: Yx	112090	astaci_YX	GCA_003546605.1	GenBank	Annotation submitted by University of Exeter	Contig	7510	53621013	2018-09-11	14311	PRJNA484796	SAMN09769275
+Aphanomyces astaci		strain: SA	112090	astaci_SA	GCA_003546625.1	GenBank	Annotation submitted by University of Exeter	Contig	7997	53241459	2018-09-11	14330	PRJNA484796	SAMN09768943
+Aphanomyces astaci		strain: Sv	112090	astaci_SV	GCA_003546765.1	GenBank	Annotation submitted by University of Exeter	Contig	13234	51850380	2018-09-11	14100	PRJNA484796	SAMN09768942
+Aphanomyces astaci		strain: FDL457	112090	astaci_457	GCA_003546785.1	GenBank	Annotation submitted by University of Exeter	Contig	4763	70452593	2018-09-11	16499	PRJNA484796	SAMN09769394
+Aphanomyces astaci		strain: 197901	112090	astaci_197901	GCA_003546805.1	GenBank	Annotation submitted by University of Exeter	Contig	6100	71488524	2018-09-11	16762	PRJNA484796	SAMN09769445
+Aphanomyces astaci		strain: Da	112090	Da	GCA_003546825.1	GenBank	Annotation submitted by University of Exeter	Contig	14570	51759259	2018-09-11	14050	PRJNA484796	SAMN09768903
+Aphanomyces astaci		strain: KB13	112090	astaci_KB13	GCA_003666305.1	GenBank	Annotation submitted by University of Exeter	Contig	2121	104535722	2018-10-17	16061	PRJNA484796	SAMN09769691
+Peronospora effusa		strain: R14	542832	Peff_R14	GCA_003704535.1	GenBank	Annotation submitted by UC Davis Genome Center	Scaffold	51710	30813317	2018-10-31	8569	PRJNA453556	SAMN08996248
+Peronospora effusa		strain: R13	542832	ASM384389v1	GCA_003843895.1	GenBank	Annotation submitted by UC Davis Genome Center	Scaffold	48369	32162939	2018-11-27	8603	PRJNA453556	SAMN08996247
+Bremia lactucae	lettuce downy mildew	strain: SF5	4779	BlacSF5v2	GCA_004359215.2	GenBank	Annotation submitted by UC Davis Genome Center	Chromosome	28789	115935664	2021-08-20	9767	PRJNA387613	SAMN07163504
+Nannochloropsis salina CCMP1776		strain: CCMP1776	1027361	ASM456527v1	GCA_004565275.1	GenBank	Annotation submitted by Los Alamos National Lab	Scaffold	181586	27600439	2019-05-15	8817	PRJNA503186	SAMN10354914
+Pythium oligandrum		strain: ATCC 38472_TT	41045	ASM596654v1	GCA_005966545.1	GenBank	Annotation submitted by Laboratoire de Recherche en Sciences Vegetales	Contig	1292773	41968875	2019-06-04	14954	PRJNA528861	SAMN11246703
+Globisporangium splendens		strain: rgcb-1	82926	DCB_P.spl	GCA_006386115.1	GenBank	Annotation submitted by University of Kerala	Scaffold	342140	53361008	2019-06-24	17350	PRJNA548776	SAMN12049464
+[Pythium] brassicae (nom. inval.)		strain: P1	1485010	ASM827159v1	GCA_008271595.1	GenBank	Annotation submitted by Utah State University	Scaffold	9595	50069394	2019-09-04	13219	PRJNA498716	SAMN10332717
+Cafeteria roenbergensis		strain: Cflag	33653	CrCflag	GCA_008330625.1	GenBank	Annotation submitted by Max Planck Institute for Medical Research	Contig	231394	34478070	2019-09-09	8086	PRJNA552725	SAMN12216699
+Cafeteria roenbergensis		strain: RCC970-E3	33653	CrRCC970	GCA_008330635.1	GenBank	Annotation submitted by Max Planck Institute for Medical Research	Contig	148311	33945106	2019-09-09	7926	PRJNA552725	SAMN12216700
+Cafeteria roenbergensis		strain: BVI	33653	CrBVI	GCA_008330645.1	GenBank	Annotation submitted by Max Planck Institute for Medical Research	Contig	464771	36283887	2019-09-09	8549	PRJNA552725	SAMN12216698
+Cafeteria roenbergensis		strain: E4-10P	33653	CrE410P	GCA_008330665.1	GenBank	Annotation submitted by Max Planck Institute for Medical Research	Contig	402892	35292647	2019-09-09	8436	PRJNA552725	SAMN12216681
+Phytophthora fragariae		isolate: BC-16	53985	ASM972945v1	GCA_009729455.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Contig	923458	90966605	2019-12-04	41102	PRJNA396163	SAMN07449681
+Phytophthora rubi		strain: SCRP249	129364	ASM973290v1	GCA_009732905.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	16602	77788370	2019-12-05	34138	PRJNA396163	SAMN07449690
+Phytophthora fragariae		strain: SCRP245	53985	ASM973292v1	GCA_009732925.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	18119	77843592	2019-12-05	33223	PRJNA396163	SAMN07449689
+Phytophthora rubi		strain: SCRP324	129364	ASM973294v1	GCA_009732945.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	16819	77910222	2019-12-05	33263	PRJNA396163	SAMN07449691
+Phytophthora fragariae		strain: NOV-27	53985	ASM973298v1	GCA_009732985.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	19396	78749363	2019-12-05	33797	PRJNA396163	SAMN07449683
+Phytophthora fragariae		strain: ONT-3	53985	ASM973300v1	GCA_009733005.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	18801	79064189	2019-12-05	33415	PRJNA396163	SAMN07449688
+Phytophthora fragariae		strain: NOV-5	53985	ASM973302v1	GCA_009733025.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	17870	78992522	2019-12-05	33699	PRJNA396163	SAMN07449684
+Phytophthora fragariae		strain: BC-23	53985	ASM973304v1	GCA_009733045.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	18227	78255805	2019-12-05	33143	PRJNA396163	SAMN07449682
+Phytophthora fragariae		strain: NOV-71	53985	ASM973306v1	GCA_009733065.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	20183	78371082	2019-12-05	33143	PRJNA396163	SAMN07449685
+Phytophthora fragariae		strain: BC-1	53985	ASM973308v1	GCA_009733085.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	21782	79097775	2019-12-05	33691	PRJNA396163	SAMN07449680
+Phytophthora fragariae		strain: A4	53985	ASM973310v1	GCA_009733105.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	18164	79078972	2019-12-05	33623	PRJNA396163	SAMN07449679
+Phytophthora fragariae		strain: NOV-77	53985	ASM973312v1	GCA_009733125.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	18882	78804247	2019-12-05	33580	PRJNA396163	SAMN07449686
+Phytophthora rubi		strain: SCRP333	129364	ASM973314v1	GCA_009733145.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	16937	77817047	2019-12-05	35222	PRJNA396163	SAMN07449692
+Aphanomyces euteiches		strain: ATCC 201684	100861	Ae201684_v1	GCA_009835175.1	GenBank	Annotation submitted by Laboratoire de Recherche en Sciences Vegetales	Scaffold	109455	56904627	2020-01-09	19264	PRJNA551439	SAMN12147934
+Aphanomyces stellatus		strain: CBS 578.67	120398	As_578.67_v1	GCA_009835185.1	GenBank	Annotation submitted by Laboratoire de Recherche en Sciences Vegetales	Scaffold	31831	62115503	2020-01-09	25494	PRJNA551386	SAMN12145847
+Aphanomyces astaci		strain: E	112090	AaE_v1	GCA_009835205.1	GenBank	Annotation submitted by Laboratoire de Recherche en Sciences Vegetales	Scaffold	2078	45170078	2020-01-09	16318	PRJNA551417	SAMN12147657
+Phytophthora cactorum		strain: D-1	29920	Phyca_D	GCA_010194725.1	GenBank	Annotation submitted by KMUST	Contig	30670	121526021	2020-02-05	24180	PRJNA318145	SAMN04633454
+Phytophthora infestans	potato late blight agent	strain: KR_1_A1	4787	ASM1229517v1	GCA_012295175.1	GenBank	Annotation submitted by Rural Development Administration	Contig	291816	200673608	2020-04-14	21014	PRJNA592863	SAMN13441166
+Phytophthora infestans	potato late blight agent	strain: KR_2_A2	4787	ASM1255232v1	GCA_012552325.1	GenBank	Annotation submitted by Rural Development Administration	Scaffold	152814	230945478	2020-04-20	23771	PRJNA592863	SAMN13441183
+Phytophthora capsici		strain: LT1534-B	4784	Pcap_4.1	GCA_016618375.1	GenBank	Annotation submitted by Cornell University	Scaffold	485876	94176027	2021-01-12	28579	PRJNA481983	SAMN09692924
+Phytophthora cactorum		strain: 12-420	29920	ASM1686463v1	GCA_016864635.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	36364	59887557	2021-02-11	25444	PRJNA391273	SAMN07267854
+Phytophthora cactorum		strain: P414	29920	ASM1686465v1	GCA_016864655.1	GenBank	Harrison Lab NIAB-EMR Release 1.00	Contig	645375	65959694	2021-02-11	29551	PRJNA383548	SAMN06766401
+Phytophthora cactorum		strain: 15-13	29920	ASM1686466v1	GCA_016864665.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	41022	60703463	2021-02-11	25941	PRJNA391273	SAMN07267855
+Phytophthora cactorum		strain: 15-7	29920	ASM1686469v1	GCA_016864695.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	42746	60796470	2021-02-11	25854	PRJNA391273	SAMN07267856
+Phytophthora cactorum		strain: 4040	29920	ASM1686471v1	GCA_016864715.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	38960	60657148	2021-02-11	28670	PRJNA391273	SAMN07267860
+Phytophthora cactorum		strain: 4032	29920	Pcac_4032	GCA_016864735.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	37762	61561706	2021-02-11	26062	PRJNA391273	SAMN07267858
+Phytophthora cactorum		strain: 2003-3	29920	ASM1686475v1	GCA_016864755.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	39718	60795145	2021-02-11	28949	PRJNA391273	SAMN07267857
+Phytophthora cactorum		strain: P295	29920	ASM1686477v1	GCA_016864775.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	38955	60707037	2021-02-11	25627	PRJNA391273	SAMN07267864
+Phytophthora cactorum		strain: 62471	29920	ASM1686479v1	GCA_016864795.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	35890	61265185	2021-02-11	28766	PRJNA391273	SAMN07267863
+Phytophthora cactorum		strain: P415	29920	ASM1686481v1	GCA_016864815.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	40262	60677265	2021-02-11	26042	PRJNA391273	SAMN07267861
+Phytophthora cactorum		strain: P416	29920	ASM1686483v1	GCA_016864835.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	39971	60476590	2021-02-11	28623	PRJNA391273	SAMN07267862
+Phytophthora cactorum		strain: PC13-15	29920	ASM1686485v1	GCA_016864855.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	39607	61128622	2021-02-11	25770	PRJNA391273	SAMN07267865
+Phytophthora cactorum		strain: P421	29920	ASM1686505v1	GCA_016865055.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	33301	59952001	2021-02-11	25565	PRJNA391273	SAMN08638080
+Phytophthora cactorum		strain: 11-40	29920	ASM1686507v1	GCA_016865075.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	43566	59724358	2021-02-11	28046	PRJNA391273	SAMN08638078
+Phytophthora cactorum		strain: 17-21	29920	ASM1686508v1	GCA_016865085.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	48976	59759428	2021-02-11	27868	PRJNA391273	SAMN08638079
+Phytophthora idaei		strain: SCRP370	53986	ASM1686509v1	GCA_016865095.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	39005	60582035	2021-02-11	27354	PRJNA391273	SAMN07267868
+Phytophthora idaei		strain: SCRP376	53986	ASM1688017v1	GCA_016880175.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	39283	60609233	2021-02-11	24924	PRJNA391273	SAMN07267869
+Phytophthora idaei		strain: SCRP371	53986	ASM1688098v1	GCA_016880985.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	44060	60469986	2021-02-12	24856	PRJNA391273	SAMN07267867
+Phytophthora cactorum		strain: R36-14	29920	ASM1690636v1	GCA_016906365.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	36071	61346800	2021-02-18	28923	PRJNA391273	SAMN07267866
+Phytophthora cactorum		strain: P404	29920	ASM1730969v1	GCA_017309695.1	GenBank	Harrison Lab NIAB-EMR Release 1.01	Scaffold	33630	75501778	2021-03-09	34977	PRJNA391273	SAMN07267859
+Tribonema minus		isolate: UTEX B ZZ1240	303371	ASM1750686v1	GCA_017506865.1	GenBank	Annotation submitted by Sandia National Lab	Contig	768631	158345074	2021-03-22	18441	PRJNA692219	SAMN17316835
+Phytophthora cinnamomi		strain: GKB4	4785	ASM1869171v1	GCA_018691715.1	GenBank	Annotation submitted by University of Pretoria	Scaffold	765543	109702272	2021-06-03	19981	PRJNA675400	SAMN16706909
+Phytophthora aleatoria		isolate: NZFS 4037	2496075	NZ4037v1	GCA_018873745.1	GenBank	Annotation submitted by University of Exeter	Scaffold	25206	50587315	2021-06-14	17721	PRJNA687640	SAMN17151088
+Phytophthora cactorum		isolate: NZFS 3830	29920	NZ3830v1	GCA_018873755.1	GenBank	Annotation submitted by University of Exeter	Scaffold	26108	51622588	2021-06-14	18734	PRJNA687640	SAMN17151089
+Nitzschia inconspicua		strain: hildebrandi	303405	GAI293_CANU_175m_combined	GCA_019154785.2	GenBank	Annotation submitted by University of California, San Diego	Contig	3618388	99706970	2021-07-07	39085	PRJNA675887	SAMN16729385
+Phytophthora boehmeriae		isolate: SCRP23	109152	JHI_Pboe_1.0	GCA_019155685.1	GenBank	Annotation submitted by University of St Andrews	Scaffold	40793	39952294	2021-07-07	12121	PRJNA702033	SAMN17922340
+Phytophthora pseudosyringae		isolate: SCRP734	221518	JHI_pseudo_1.0	GCA_019155715.1	GenBank	Annotation submitted by University of St Andrews	Scaffold	44540	48923166	2021-07-07	15624	PRJNA702035	SAMN17922341
+Aphanomyces cochlioides		isolate: 103-1	112091	UMN_Aphcoc_1.0	GCA_019828595.1	GenBank	Annotation submitted by University of Minnesota	Contig	2604000	76219371	2021-08-31	20274	PRJNA719397	SAMN18617838
+Phytophthora ramorum	Sudden oak death agent	isolate: Pr-102	164328	PR-102_v3_p	GCA_020800215.1	GenBank	Annotation submitted by USDA ARS	Scaffold	1193636	57451392	2021-11-08	15268	PRJNA738483	SAMN19730089
+Phytophthora ramorum	Sudden oak death agent	isolate: PR-15-019, strain: 14567	164328	ASM2080023v1	GCA_020800235.1	GenBank	Annotation submitted by USDA ARS	Scaffold	1614487	57500797	2021-11-08	15350	PRJNA738482	SAMN19730093
+Aureococcus anophagefferens		strain: CCMP1850	44056	ASM2102903v1	GCA_021029035.1	GenBank	Annotation submitted by University of Tennessee	Contig	483163	57108930	2022-01-11	13457	PRJNA692237	SAMN17317550
+Aureococcus anophagefferens		strain: CCMP1707	44056	ASM2102904v1	GCA_021029045.1	GenBank	Annotation submitted by University of Tennessee	Contig	844787	64432857	2022-01-11	15577	PRJNA692237	SAMN17317551
+Aureococcus anophagefferens		strain: CCMP1984	44056	ASM2102911v1	GCA_021029115.1	GenBank	Annotation submitted by University of Tennessee	Contig	552779	73614722	2022-01-11	17689	PRJNA692237	SAMN17317549
+Peronospora effusa		isolate: UA202013	542832	ASM2149165v1	GCA_021491655.1	GenBank	Annotation submitted by UC Davis Genome Center	Chromosome	3727724	58578433	2022-01-17	17147	PRJNA745455	SAMN20203776
+Aphanomyces euteiches		strain: MF1	100861	ASM2152766v1	GCA_021527665.1	GenBank	Annotation submitted by Laboratoire de Recherche en Sciences Vegetales	Scaffold	23636	59739872	2022-01-19	21894	PRJNA767766	SAMN21928914
+Aphanomyces euteiches		strain: ATCC 201684	100861	ASM2152768v1	GCA_021527685.1	GenBank	Annotation submitted by Laboratoire de Recherche en Sciences Vegetales	Contig	1005788	73284099	2022-01-19	22518	PRJNA769534	SAMN22140459
+Aphanomyces euteiches		strain: RB84	100861	ASM2152774v1	GCA_021527745.1	GenBank	Annotation submitted by Laboratoire de Recherche en Sciences Vegetales	Scaffold	27800	59389733	2022-01-19	21768	PRJNA767773	SAMN21928942
+Aphanomyces euteiches		strain: EG109	100861	ASM2152778v1	GCA_021527785.1	GenBank	Annotation submitted by Laboratoire de Recherche en Sciences Vegetales	Scaffold	19820	58413039	2022-01-19	21426	PRJNA767593	SAMN21910396
+Aphanomyces euteiches		strain: NC1	100861	ASM2152780v1	GCA_021527805.1	GenBank	Annotation submitted by Laboratoire de Recherche en Sciences Vegetales	Contig	11661	52049772	2022-01-19	19829	PRJNA767769	SAMN21928938
+Chaetoceros tenuissimus		strain: NIES-3715	426638	Cten210_1.0	GCA_021927905.1	GenBank	Annotation submitted by Environmental Genomics Group, Research Center for Bioinformatics and Biosciences, National Research Institute of Fisheries Science, Japan Fisheries Research and Education Agency	Scaffold	2121213	41001288	2021-11-26	19076	PRJDB8865	SAMD00190243
+Fragilaria crotonensis		strain: SAG 28.96	210448	ASM2292589v1	GCA_022925895.1	GenBank	Annotation submitted by University of Tennessee Knoxville	Contig	89148	61849504	2022-04-12	26158	PRJNA807324	SAMN25978007
+Peronosclerospora sorghi		isolate: P6	230839	PsorP6_UCD_v1	GCA_026184515.1	GenBank	Annotation submitted by UC Davis Genome Center	Chromosome	42491	325250994	2022-11-15	19118	PRJNA845776	SAMN28842343
+Phytophthora infestans	potato late blight agent	strain: 1306	4787	Pinf1306_UCR_1	GCA_026225685.1	GenBank	Annotation submitted by University of California	Chromosome	684039	246895792	2022-11-18	31037	PRJNA868814	SAMN30543006
+Pythium insidiosum		strain: Pi050C3	114742	ASM2640137v1	GCA_026401375.1	GenBank	Annotation submitted by Kasetsart University	Scaffold	9659	43294389	2022-11-25	12249	PRJNA785345	SAMN23767486
+Pythium insidiosum		strain: Pi057C3	114742	ASM2640139v1	GCA_026401395.1	GenBank	Annotation submitted by Kasetsart University	Scaffold	9145	42546069	2022-11-25	12146	PRJNA785345	SAMN23767487
+Pelagophyceae sp. CCMP2097		strain: CCMP2097	483370	Pelago2097_1	GCA_026770575.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	14243	85824453	2022-12-09	19688	PRJNA210205	SAMN09305521
+Ochromonadaceae sp. CCMP2298		strain: CCMP2298	483371	Ochro2298_1	GCA_026770595.1	GenBank	Annotation submitted by Laval University	Scaffold	4898	61116754	2022-12-09	20172	PRJNA171379	SAMN00855325
+Mayamaea pseudoterrestris		strain: NIES-4280	2872254	Mpse_1.0	GCA_027923505.1	GenBank	Annotation submitted by National Institute for Environmental Studies	Contig	1067527	30627229	2022-12-13	11071	PRJDB13502	SAMD00469796
+Lagenidium giganteum		strain: ARSEF 373	4803	Lag_gig_ARSEF373_Annot	GCA_027925865.1	GenBank	Annotation submitted by Nova Southeastern University	Scaffold	42304	56091714	2023-01-20	13069	PRJNA256125	SAMN05544984
+Phytophthora cinnamomi		strain: VT-H3	4785	Phytophthora_cinnamomi_reassembly_enz	GCA_029747605.1	GenBank	Annotation submitted by TU Dresden - IHI Zittau	Scaffold	8598	53155022	2023-04-14	19137	PRJNA896933	SAMN31572647
+Chrysophaeum taylorii		strain: NIES-1699	2483200	CTAYLR_1.1	GCA_029834535.1	GenBank	Annotation submitted by NIDDK, NIH	Contig	157935	70683391	2023-04-19	10674	PRJNA892039	SAMN31355949
+Plasmopara halstedii			4781	Plasmopara halstedii genome	GCA_900000015.1	GenBank	Annotation submitted by IPF	Scaffold	16233	75321785	2015-11-18	15469	PRJEB6932	SAMEA2781508
+Pseudo-nitzschia multistriata		strain: B856	183589	ASM90066040v1	GCA_900660405.1	GenBank	Annotation submitted by Stazione Zoologica Anton Dohrn	Scaffold	30320	56765209	2019-02-12	11972	PRJEB9419	SAMEA5241064
+Aphanomyces stellatus		isolate: CBS 568.67	120398	Aphanomyces_stellatus_CBS568.67	GCA_900708865.1	GenBank	Annotation submitted by LABORATOIRE DE RECHERCHE EN SCIENCES VEGETALES, UMR 5546 UNIVERSITY OF TOULOUSE III-CNRS	Scaffold	31791	62130275	2019-09-20	25573	PRJEB24018	SAMEA104444324
+Ectocarpus sp. CCAP 1310/34		strain: Bft15b	867726	Esub_Assebmy2	GCA_902602495.3	GenBank	Annotation submitted by STATION BIOLOGIQUE DE ROSCOFF	Scaffold	11922	242356113	2020-03-23	25595	PRJEB25230	SAMEA104653772
+Seminavis robusta		strain: D6	568900	Semro_V1	GCA_903772945.1	GenBank	Annotation submitted by Center for Plant Systems Biology, VIB-Ugent	Scaffold	48501	125572603	2022-10-20	36393	PRJEB36614	SAMEA6526417
+Pelagomonas calceolata			35677	CNM_v1	GCA_918797485.1	GenBank	Annotation submitted by Genoscope CEA	Contig	5385517	32445274	2021-11-19	16525	PRJEB48576	SAMEA10271030
+Peronospora belbahrii		isolate: pbs3	622444	pbs3_v1	GCA_920618645.1	GenBank	Annotation submitted by NIAB	Contig	402275	32894831	2023-04-08	9688	PRJEB48439	SAMEA10540021
+Peronospora farinosa	downy mildew	isolate: pf1	134698	pf1_v1	GCA_920940705.1	GenBank	Annotation submitted by NIAB	Scaffold	106788	35053226	2023-04-08	9223	PRJEB48439	SAMEA10540023
+Peronospora matthiolae		isolate: pm1	2874970	pm1_v1	GCA_921007115.1	GenBank	Annotation submitted by NIAB	Contig	291379	83192745	2023-04-08	10330	PRJEB48439	SAMEA10540017
+Peronospora belbahrii		isolate: pbs1	622444	pbs1_v1	GCA_921012115.1	GenBank	Annotation submitted by NIAB	Contig	172141	29311053	2023-04-08	9189	PRJEB48439	SAMEA10540019
+Peronospora effusa		isolate: pe1_R8	542832	Pe1	GCA_947641895.1	GenBank	Annotation submitted by NIAB	Contig	583062	53697582	2023-04-08	9917	PRJEB48439	SAMEA112151706
+Peronospora farinosa	downy mildew	isolate: pf2	134698	Pf2	GCA_947646735.1	GenBank	Annotation submitted by NIAB	Contig	318826	48717171	2023-04-08	9548	PRJEB48439	SAMEA112151705
+Hyaloperonospora brassicae		isolate: hp1	162125	Hp1	GCA_947650285.1	GenBank	Annotation submitted by NIAB	Scaffold	263828	102623141	2023-04-08	9538	PRJEB48439	SAMEA112151707
+Peronospora destructor		isolate: pd1	86335	Pd1	GCA_947650345.1	GenBank	Annotation submitted by NIAB	Scaffold	32151	43514070	2023-04-08	12443	PRJEB48439	SAMEA112151708
+Phytophthora infestans T30-4		strain: T30-4	403677	ASM14294v1	GCF_000142945.1	RefSeq	Annotation submitted by Broad Institute	Scaffold	44484	228543505	2009-06-17	19344	PRJNA17665	SAMN02953670
+Thalassiosira pseudonana CCMP1335		strain: CCMP1335	296543	ASM14940v2	GCF_000149405.2	RefSeq	Annotation submitted by Diatom Consortium	Chromosome	1267198	32437365	2009-01-16	11771	PRJNA191	SAMN02744045
+Phytophthora sojae		strain: P6497	67593	P.sojae V3.0	GCF_000149755.1	RefSeq	Annotation submitted by US DOE Joint Genome Institute, USA, Walnut Creek	Scaffold	385992	82597641	2011-10-03	28142	PRJNA17989	SAMN02953656
+Phaeodactylum tricornutum CCAP 1055/1		strain: CCAP 1055/1	556484	ASM15095v2	GCF_000150955.2	RefSeq	Annotation submitted by Diatom Consortium	Chromosome	417209	27450724	2008-12-12	10398	PRJNA13152	SAMN02953727
+Saprolegnia parasitica CBS 223.65		strain: CBS 223.65	695850	ASM15154v2	GCF_000151545.1	RefSeq	Annotation submitted by Broad Institute	Scaffold	34471	53093248	2014-05-29	20435	PRJNA36583	SAMN02981252
+Blastocystis hominis		isolate: Singapore isolate B (sub-type 7)	12968	ASM15166v1	GCF_000151665.1	RefSeq	Annotation submitted by Genoscope - Institut de Genomique - CEA	Scaffold	296810	18817245	2010-07-06	6020	PRJEA45923	SAMEA2272370
+Aureococcus anophagefferens		strain: CCMP1984	44056	v 1.0	GCF_000186865.1	RefSeq	Annotation submitted by DOE Joint Genome Institute	Scaffold	34096	56660572	2011-02-15	11522	PRJNA13500	SAMN02953754
+Nannochloropsis gaditana CCMP526		strain: CCMP526	1093141	ASM24072v1	GCF_000240725.1	RefSeq	Annotation submitted by Colorado School of Mines	Scaffold	21340	33986952	2012-01-04	3558	PRJNA73791	SAMN02981382
+Phytophthora parasitica INRA-310		strain: INRA-310	761204	PP_INRA-310_V2	GCF_000247585.1	RefSeq	Annotation submitted by Broad Institute	Scaffold	24397	82389172	2013-12-19	23240	PRJNA73155	SAMN02981373
+Saprolegnia diclina VS20		strain: VS20	1156394	Sap_diclina_VS20_V1	GCF_000281045.1	RefSeq	Annotation submitted by Broad Institute	Scaffold	30015	62885792	2013-02-22	17448	PRJNA86859	SAMN02981407
+Aphanomyces astaci		strain: APO3	112090	Apha_asta_APO3_V1	GCF_000520075.1	RefSeq	Annotation submitted by Broad Institute	Scaffold	36439	75844385	2014-01-14	19584	PRJNA187372	SAMN01906578
+Aphanomyces invadans		strain: NJM9701	157072	Apha_inva_NJM9701_V1	GCF_000520115.1	RefSeq	Annotation submitted by Broad Institute	Scaffold	30531	71402472	2014-01-15	15416	PRJNA188082	SAMN01907307
+Blastocystis sp. subtype 4		strain: WR1	944170	ASM74375v1	GCF_000743755.1	RefSeq	Annotation submitted by Clermont Universite, Universite Blaise Pascal, CNRS UMR 6023	Scaffold	29524	12919355	2014-09-29	5707	PRJNA257240	SAMN02949638
+Plasmopara halstedii			4781	Plasmopara halstedii genome	GCF_900000015.1	RefSeq	Annotation submitted by IPF	Scaffold	16233	75321785	2015-11-18	15459	PRJEB6932	SAMEA2781508

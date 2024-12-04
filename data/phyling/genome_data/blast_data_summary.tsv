@@ -1,0 +1,11 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Allomyces macrogynus ATCC 38327		strain: ATCC 38327	578462	A_macrogynus_V3	GCA_000151295.1	GenBank	Annotation submitted by Broad Institute	Scaffold	35497	57060573	2010-02-18	19282	PRJNA20563	SAMN02953744
+Catenaria anguillulae PL171		strain: PL171	765915	Catan2	GCA_002102555.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	217825	41337528	2017-04-20	13266	PRJNA330705	SAMN05421822
+Blastocladiella britannica		strain: JEL711	64508	Blabri1	GCA_025349905.2	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	20944	19075314	2022-09-20	9490	PRJNA331555	SAMN05444061
+Blastocladiella emersonii ATCC 22665		strain: ATCC 22665	1313167	blem_2022	GCA_025594325.1	GenBank	Annotation submitted by Natural History Museum, London	Contig	2021495	32654225	2022-10-05	10254	PRJNA194096	SAMN15893246
+Paraphysoderma sedebokerense		strain: JEL821	1500003	Parsed1	GCA_025602915.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	239846	27876074	2022-10-05	11062	PRJNA347199	SAMN05892242
+Coelomomyces lativittatus		strain: CIRM-AVA-1-Amber	945690	CoeloLatAmber_1.0_UCR	GCA_026928455.1	GenBank	Annotation submitted by University of California, Riverside	Scaffold	4496	22882397	2022-12-16	7404	PRJNA631428	SAMN14860514
+Coelomomyces lativittatus		strain: CIRM-AVA-1-Orange	945690	CoeloLatOrange_1.0_UCR	GCA_026937105.1	GenBank	Annotation submitted by University of California, Riverside	Scaffold	3898	19883822	2022-12-16	7344	PRJNA631429	SAMN14860515
+Coelomomyces lativittatus		strain: CIRM-AVA-1-Meiospore	945690	CoeloLatMeio_1.0_UCR	GCA_026937265.1	GenBank	Annotation submitted by University of California, Riverside	Scaffold	5369	21857322	2022-12-16	7677	PRJNA631430	SAMN14860517
+Allomyces javanicus		strain: California 12	64505	ASM2760464v1	GCA_027604645.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Contig	104684	29927322	2023-01-09	10134	PRJNA581158	SAMN13165567
+Allomyces arbusculus		strain: Burma 1F	64504	ASM2760470v1	GCA_027604705.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Scaffold	162290	26482826	2023-01-09	9041	PRJNA581157	SAMN13165476

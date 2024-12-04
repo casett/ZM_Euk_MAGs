@@ -1,0 +1,31 @@
+Clade	Species	Strain	GenBank Assession 	label	PhyloName	TipColor
+Lobulomycetales	Lobulomyces angularis	JEL45	AF164253	AF164253-2	Lobulomyces angularis JEL45 (AF164253)	Lobulomycetales
+Lobulomycetales	Culture-independent	RSC-CHU-20 	AJ506002	AJ506002-1	Culture-independent RSC-CHU-20  (AJ506002)	Lobulomycetales
+Lobulomycetales	Culture-independent	CCW64	AY180029	AY180029-1	Culture-independent CCW64 (AY180029)	Lobulomycetales
+Lobulomycetales	Culture-independent	D2P03D7	EF100268	EF100268-1	Culture-independent D2P03D7 (EF100268)	Lobulomycetales
+Lobulomycetales	Lobulomycetales sp.	AF011	EF432819	EF432819-2	Lobulomycetales sp. AF011 (EF432819)	Lobulomycetales
+Lobulomycetales	Lobulomycetales sp.	AF017	EF432821	EF432821-2	Lobulomycetales sp. AF017 (EF432821)	Lobulomycetales
+Lobulomycetales	Maunachytrium keaense	AF021	EF432822	EF432822-2	Maunachytrium keaense AF021 (EF432822)	Lobulomycetales
+Lobulomycetales	Lobulomyces poculatus	JEL343	EF443134	EF443134-1	Lobulomyces poculatus JEL343 (EF443134)	Lobulomycetales
+Lobulomycetales	Lobulomyces poculatus	JEL374	EF443135	EF443135-1	Lobulomyces poculatus JEL374 (EF443135)	Lobulomycetales
+Lobulomycetales	Lobulomyces sp.	JEL178	EF443136	EF443136-1	Lobulomyces sp. JEL178 (EF443136)	Lobulomycetales
+Lobulomycetales	Clydaea vesicula	JEL369	EF443137	EF443137-1	Clydaea vesicula JEL369 (EF443137)	Lobulomycetales
+Lobulomycetales	Clydaea vesicula	PL70	EF443138	EF443138-1	Clydaea vesicula PL70 (EF443138)	Lobulomycetales
+Lobulomycetales	Culture-independent	IIS1-20	EU517013	EU517013-1	Culture-independent IIS1-20 (EU517013)	Lobulomycetales
+Gromochytriales	Culture-independent	kor_110904_17	FJ157331	FJ157331-1	Culture-independent kor_110904_17 (FJ157331)	Gromochytriales
+Mesochytriales	Mesochytrium penetran	CALU X10	FJ804149	FJ804149-1	Mesochytrium penetran CALU X10 (FJ804149)	Mesochytriales
+Lobulomycetales	Culture-independent	5-C10	FN690492	FN690492-1	Culture-independent 5-C10 (FN690492)	Lobulomycetales
+Lobulomycetales	Culture-independent	6c A1	FN690496	FN690496-1	Culture-independent 6c A1 (FN690496)	Lobulomycetales
+Lobulomycetales	Algomyces tanneri	JEL549	GQ499385	GQ499385-1	Algomyces tanneri JEL549 (GQ499385)	Lobulomycetales
+Lobulomycetales	Culture-independent	AB3F14RJ10F05	GU824390	GU824390-1	Culture-independent AB3F14RJ10F05 (GU824390)	Lobulomycetales
+Lobulomycetales	Culture-independent	VM3 116	HG530947	HG530947-1	Culture-independent VM3 116 (HG530947)	Lobulomycetales
+Lobulomycetales	Culture-independent	AY2009B4	HQ219419	HQ219419-1	Culture-independent AY2009B4 (HQ219419)	Lobulomycetales
+Lobulomycetales	Culture-independent	Ay2007E7	JQ689413	JQ689413-1	Culture-independent Ay2007E7 (JQ689413)	Lobulomycetales
+Gromochytriales	Gromochytrium mamkaeve	CALU X51	KF586842	KF586842-1	Gromochytrium mamkaeve CALU X51 (KF586842)	Gromochytriales
+Lobulomycetales	Algomyces stechlinensis	SVdW-EUD3	MG605055	MG605055-1	Algomyces stechlinensis SVdW-EUD3 (MG605055)	Lobulomycetales
+Lobulomycetales	Zygorhizidium affluens	CCAP 4086/1	MH626496	MH626496-1	Zygorhizidium affluens CCAP 4086/1 (MH626496)	Lobulomycetales
+Lobulomycetales	Lobulomycetales sp.	SV8/SGEUK-03	this study	W_METABAT__21	Lobulomycetales sp. SV8/SGEUK-03 (this study)	this study
+Lobulomycetales	Chytridium polysiphoniae	Chy Pyl IR 14d	AY032608	AY032608-1	Chytridium polysiphoniae Chy Pyl IR 14d (AY032608)	Lobulomycetales
+Lobulomycetales	Culture-independent	RSC-CHU-18e	AJ506000	AJ506000-1	Culture-independent RSC-CHU-18e (AJ506000)	Lobulomycetales
+Lobulomycetales	Culture-independent	RSC-CHU-23e	AJ506003	AJ506003-1	Culture-independent RSC-CHU-23e (AJ506003)	Lobulomycetales
+Lobulomycetales	Culture-independent	RSC-CHU-69e	AJ506037	AJ506037-1	Culture-independent RSC-CHU-69e (AJ506037)	Lobulomycetales
