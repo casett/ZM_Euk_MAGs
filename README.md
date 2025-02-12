@@ -5,7 +5,8 @@
 
 ### To cite this work or code
 
-<i> Preprint coming soon </i>
+Ettinger, C., Eisen, J., & Stajich, J. (2025). Eukaryotic MAGs recovered from deep metagenomic sequencing of the seagrass, Zostera marina, include a novel chytrid in the order Lobulomycetales. Preprint available on<i> bioRxiv</i>. DOI: [10.1101/2025.02.11.637735](https://doi.org/10.1101/2025.02.11.637735
+)
 
 Ettinger, C., Eisen, J., & Stajich, J. (2024). casett/ZM_Euk_MAGs: v1 (Version v1). Zenodo. https://doi.org/10.5281/zenodo.14278508
 
